@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdbxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.2/FINAL">
+  <nofrecords>5</nofrecords>
+  <categorisation url="https://taxonomy.uitdatabank.be/api/domain/publicscope/classification">
+    <term createdby="CultuurNet" creationdate="2013-03-26T20:53:07" domain="publicscope" enabled="true" id="6.0.0.0.0" label="Wijk of buurt" labelnl="Wijk of buurt" labelfr="Quartier ou voisinage" labelen="Neighbourhood" labelde="Nachbarschaft" show="false" sort="1" />
+    <term createdby="CultuurNet" creationdate="2013-03-26T20:53:07" domain="publicscope" enabled="true" id="6.1.0.0.0" label="Lokaal" labelnl="Lokaal" labelfr="Locale" labelen="Local" labelde="Lokal" show="false" sort="2" />
+    <term createdby="CultuurNet" creationdate="2013-03-26T20:53:07" domain="publicscope" enabled="true" id="6.2.0.0.0" label="Regionaal" labelnl="Regionaal" labelfr="Régional" labelen="Regional" labelde="Regional" show="false" sort="3" />
+    <term createdby="CultuurNet" creationdate="2013-03-26T20:53:07" domain="publicscope" enabled="true" id="6.3.0.0.0" label="Nationaal" labelnl="Nationaal" labelfr="National" labelen="National" labelde="National" show="false" sort="4" />
+    <term createdby="CultuurNet" creationdate="2013-03-26T20:53:07" domain="publicscope" enabled="true" id="6.4.0.0.0" label="Internationaal" labelnl="Internationaal" labelfr="International" labelen="International" labelde="International" show="false" sort="5" />
+  </categorisation>
+</cdbxml>
