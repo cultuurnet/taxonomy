@@ -6,20 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout project
-        uses: actions/checkout@v2
-
   deploy-test:
-    needs: [build]
     runs-on: ubuntu-latest
     environment:
       name: testing
       url: https://taxonomy-test.uitdatabank.be
 
     steps:
+      - name: Checkout project
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.sha }}
+
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master
         with:
@@ -47,6 +45,11 @@ jobs:
       url: https://taxonomy.uitdatabank.be
 
     steps:
+      - name: Checkout project
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.sha }}
+
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master
         with:
