@@ -7,6 +7,7 @@ on:
 
 jobs:
   deploy-test:
+    name: Deploy to testing environment
     runs-on: ubuntu-latest
     environment:
       name: testing
@@ -38,6 +39,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
   deploy-prod:
+    name: Deploy to production environment
     needs: [deploy-test]
     runs-on: ubuntu-latest
     environment:
