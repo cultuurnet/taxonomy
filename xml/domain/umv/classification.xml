@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdbxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.2/FINAL">
+  <nofrecords>9</nofrecords>
+  <categorisation url="https://taxonomy.uitdatabank.be/api/domain/umv/classification">
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.5" label="Buiten" labelnl="Buiten" labelfr="À l'extérieur" labelen="Outdoors" labelde="Outdoor" show="true" sort="1" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.9" label="Circus en kermis" labelnl="Circus en kermis" labelfr="Cirque et foire" labelen="Circus &amp; fairs" labelde="Zirkus und Kirmes" show="true" sort="2" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.7" label="Film" labelnl="Film" labelfr="Cinéma" labelen="Movies" labelde="Kino" show="true" sort="3" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.3" label="Kamp of vakantie" labelnl="Kamp of vakantie" labelfr="Camp de vacance" labelen="Camp or holiday" labelde="Ferienlager oder Urlaub" show="true" sort="4" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.4" label="Lezen en voorlezen" labelnl="Lezen en voorlezen" labelfr="Lire et lire à haute voix" labelen="Reading &amp; storytelling" labelde="Lesen und vorlesen" show="true" sort="5" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.1" label="Museum" labelnl="Museum" labelfr="Musée" labelen="Museum" labelde="Museen" show="true" sort="6" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.8" label="Sport" labelnl="Sport" labelfr="Sport" labelen="Sports" labelde="Sport" show="true" sort="7" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.6" label="Toneel, muziek en dans" labelnl="Toneel, muziek en dans" labelfr="Théâtre, musique et danse" labelen="Drama, music &amp; dance" labelde="Theater, Musik und Tanz" show="true" sort="8" />
+    <term createdby="CultuurNet" creationdate="" domain="umv" enabled="true" id="umv.2" label="Zelf doen" labelnl="Zelf doen" labelfr="À faire soi-même" labelen="DIY" labelde="Selbst tun" show="true" sort="9" />
+  </categorisation>
+</cdbxml>
