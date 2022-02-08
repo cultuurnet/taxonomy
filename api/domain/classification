@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cdbxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.2/FINAL">
+  <nofrecords>15</nofrecords>
+  <categorisation url="https://testtaxonomy.uitdatabank.be/api/domain">
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="municipal" label="Lokale besturen" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="IPE" label="Plattelandsbeleving" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="actortype" label="Type organisatie of persoon" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="educationfield" label="Werkveld" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="educationlevel" label="Onderwijsniveau" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="eventtype" label="Type" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="facility" label="Voorzieningen" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="flandersregion" label="UiT regio's Vlaanderen" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="flanderstouristregion" label="Toeristische regio's Vlaanderen" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="misc" label="Varia" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="publicscope" label="Publieksbereik" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="targetaudience" label="Doelgroepen" />
+    <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="theme" label="Thema" />
+    <domain createdby="CultuurNet" creationdate="2013-08-05T15:01:24" id="umv" label="Type kinderaanbod" />
+    <domain createdby="CultuurNet" creationdate="2013-08-05T11:48:00" id="workingregion" label="Werkingsregio's " />
+  </categorisation>
+</cdbxml>
