@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cdbxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.2/FINAL">
   <nofrecords>15</nofrecords>
-  <categorisation url="https://testtaxonomy.uitdatabank.be/api/domain">
+  <categorisation url="https://taxonomy.uitdatabank.be/api/domain">
     <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="municipal" label="Lokale besturen" />
     <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="IPE" label="Plattelandsbeleving" />
     <domain createdby="CultuurNet" creationdate="2013-03-26T20:53:07" id="actortype" label="Type organisatie of persoon" />
