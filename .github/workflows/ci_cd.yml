@@ -29,6 +29,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'eu-west-1'
           SOURCE_DIR: 'xml'
+          DEST_DIR: 'api'
 
       - name: Invalidate CloudFront distribution
         uses: chetan/invalidate-cloudfront-action@v1.3
@@ -63,6 +64,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'eu-west-1'
           SOURCE_DIR: 'xml'
+          DEST_DIR: 'api'
 
       - name: Invalidate CloudFront distribution
         uses: chetan/invalidate-cloudfront-action@v1.3
