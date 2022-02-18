@@ -107,6 +107,19 @@
             ]
         },
         {
+            "id": "0.52.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Circus",
+                "fr": "Cirque",
+                "de": "Zirkus",
+                "en": "Circus"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
             "id": "0.54.0.0.0",
             "domain": "eventtype",
             "name": {
@@ -2722,6 +2735,877 @@
             ]
         },
         {
+            "id": "1.17.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Antiek en brocante",
+                "fr": "Antiquit\u00e9s ou brocantes",
+                "de": "Antik-und Flohmarkt",
+                "en": "Antiques"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.2.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Architectuur",
+                "fr": "Architecture",
+                "de": "Architektur",
+                "en": "Architecture"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.1.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Audiovisuele kunst",
+                "fr": "Arts audiovisuels",
+                "de": "Audiovisuelle Kunst",
+                "en": "Audiovisual arts"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Beeldhouwkunst",
+                "fr": "Sculpture",
+                "de": "Skulptur",
+                "en": "Sculpture"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.6.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Fotografie",
+                "fr": "Photographie",
+                "de": "Fotografie",
+                "en": "Photography"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.4.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Grafiek",
+                "fr": "Art grafique",
+                "de": "Grafik",
+                "en": "Graphics"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.3.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Installatiekunst",
+                "fr": "Art d'installation",
+                "de": "Installation Art",
+                "en": "Installation art"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Schilderkunst",
+                "fr": "Peinture",
+                "de": "Malerei",
+                "en": "Painting"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.0.5.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Decoratieve kunst",
+                "fr": "Arts d\u00e9coratives",
+                "de": "Angewandte Kunst",
+                "en": "Decorative arts"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.2.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Design",
+                "fr": "Design",
+                "de": "Design",
+                "en": "Design"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.49.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Mode",
+                "fr": "Mode",
+                "de": "Mode",
+                "en": "Fashion"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.9.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Ballet en klassieke dans",
+                "fr": "Ballet et danse classique",
+                "de": "Ballett und klassischer Tanz",
+                "en": "Classical dance and ballet"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.9.3.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Volksdans en werelddans",
+                "fr": "Danse folklorique et mondiale",
+                "de": "Folk-und World Dance",
+                "en": "Folk dance"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.9.5.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Stijl en salondansen",
+                "fr": "Danse de salon et styl\u00e9e",
+                "de": "Stil-und Gesellschaftstanz",
+                "en": "Ballroom dancing"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.9.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Moderne dans",
+                "fr": "Danse moderne",
+                "de": "Modern Dance",
+                "en": "Modern dance"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.40.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Erfgoed",
+                "fr": "Patrimoine",
+                "de": "Kulturerben",
+                "en": "Heritage"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Actie- en avonturenfilm",
+                "fr": "Film d'action et d'aventure",
+                "de": "Action- und Abenteuerfilm",
+                "en": "Action and adventure film"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.12.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Animatie en kinderfilms",
+                "fr": "Films anim\u00e9s et films pour enfants",
+                "de": "Animations-und Kinderfilme",
+                "en": "Animation and children's films"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Documentaires en reportages",
+                "fr": "Documentaires et reportages",
+                "de": "Dokumentationen und Reportagen",
+                "en": "Documentary"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.6.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Griezelfilm of horror",
+                "fr": "Films d'\u00e9pouvantes ou orreurs",
+                "de": "Horror",
+                "en": "Horror"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.8.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Historische film",
+                "fr": "Films historiques",
+                "de": "Historische Film",
+                "en": "Historical film"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.3.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Komedie",
+                "fr": "Com\u00e9die",
+                "de": "Kom\u00f6die",
+                "en": "Comedy"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.13.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Kortfilm",
+                "fr": "Court m\u00e9trage",
+                "de": "Kurzfilm",
+                "en": "Short film"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.10.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Filmmusical",
+                "fr": "Com\u00e9die musicale",
+                "de": "Musical",
+                "en": "Musical"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.4.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Drama",
+                "fr": "Films dramatiques",
+                "de": "Drama",
+                "en": "Drama"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.7.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Science fiction",
+                "fr": "Science fiction",
+                "de": "Science-Fiction",
+                "en": "Science fiction"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.11.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Cinefiel",
+                "fr": "Cin\u00e9phile",
+                "de": "Cinephile",
+                "en": "Independent"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.11.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Geschiedenis",
+                "fr": "Histoire",
+                "de": "Geschichte",
+                "en": "History"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.62.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Gezondheid en wellness",
+                "fr": "Sant\u00e9 et bien-\u00eatre",
+                "de": "Gesundheit und Wellness",
+                "en": "Health and wellness"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.63.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Landbouw en platteland",
+                "fr": "Agriculture et campagne",
+                "de": "Landwirtschaft ",
+                "en": "Agriculture"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.10.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Literatuur",
+                "fr": "Lit\u00e9rature",
+                "de": "Literatur",
+                "en": "Literature"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.10.5.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Poezie",
+                "fr": "Po\u00e9sie",
+                "de": "Poesie",
+                "en": "Poetry"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.10.11.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Fictie",
+                "fr": "Fiction",
+                "de": "Fiktion",
+                "en": "Fiction"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.10.12.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Non fictie",
+                "fr": "Non fiction",
+                "de": "Sachb\u00fccher",
+                "en": "Non fiction"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.10.8.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Strips",
+                "fr": "Bandes dessin\u00e9s",
+                "de": "Comics",
+                "en": "Comic books"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.64.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Milieu en natuur",
+                "fr": "Environnement et nature",
+                "de": "Umwelt und Natur",
+                "en": "Environment and nature"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Klassieke muziek",
+                "fr": "Musique classique",
+                "de": "Klassische Musik",
+                "en": "Classical music"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Jazz en blues",
+                "fr": "Jazz et blues",
+                "de": "Jazz und Blues",
+                "en": "Jazz and blues"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.3.1.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Pop en rock",
+                "fr": "Pop et rock",
+                "de": "Pop und Rock",
+                "en": "Pop and rock"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.3.2.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Hip hop, rnb en rap",
+                "fr": "Hip hop, rnb et rap",
+                "de": "Hip-Hop, R und B und Rap",
+                "en": "Hip hop, rnb and rap"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.3.3.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Dance muziek",
+                "fr": "Musique de danse",
+                "de": "Tanzmusik",
+                "en": "Dance music"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.4.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Folk en wereldmuziek",
+                "fr": "Musique folklorique et mondiale",
+                "de": "Folk und World",
+                "en": "Folk and world music"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.8.3.5.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Amusementsmuziek",
+                "fr": "Cabaret",
+                "de": "Schlager",
+                "en": "Cabaret music"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.52.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Politiek en maatschappij",
+                "fr": "Politique et soci\u00e9t\u00e9",
+                "de": "Politik und Gesellschaft",
+                "en": "Politics and society"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.42.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Creativiteit",
+                "fr": "Cr\u00e9ativit\u00e9",
+                "de": "Kreativit\u00e4t",
+                "en": "Creativity"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.21.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Computer en techniek",
+                "fr": "Ordinateurs et technologie",
+                "de": "Computer-und Technik",
+                "en": "Computer and technology"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.37.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Opvoeding",
+                "fr": "\u00c9ducation",
+                "de": "Bildung",
+                "en": "Education"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.61.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Persoon en relaties",
+                "fr": "Hommes et relations",
+                "de": "Person und Gesellschaft",
+                "en": "People and society"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.43.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Interculturele vorming",
+                "fr": "Formation interculturelle",
+                "de": "Interkulturelle Erziehung",
+                "en": "Cross-cultural education"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.41.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Kunst en kunsteducatie",
+                "fr": "Arts et formation artistique",
+                "de": "Kunst und Kunsterziehung",
+                "en": "Arts education"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.13.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Bal en racketsport",
+                "fr": "Sports au ballons et raquettes",
+                "de": "Ball und Schl\u00e4ger",
+                "en": "Ball and racket sports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.14.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Atletiek, wandelen en fietsen",
+                "fr": "Athl\u00e9tisme, marche et cyclisme",
+                "de": "Leichtathletik, Wandern und Radfahren",
+                "en": "Athletics, running and cycling"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.3.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Zwemmen en watersport",
+                "fr": "Natation et sports nautiques",
+                "de": "Schwimmen und Wassersport",
+                "en": "Swimming and water sports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.6.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Fitness, gymnastiek, dans en vechtsport",
+                "fr": "Fitness, gymnastique, danse et arts martiaux",
+                "de": "Fitness, Tanz und Kampfkunst",
+                "en": "Fitness, gymnastics, dance and martial arts"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.11.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Outdoor en Adventure sport",
+                "fr": "Sports de plein air et d'aventure",
+                "de": "Outdoor- und Abenteuersport",
+                "en": "Outdoor and Adventure sports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.58.8.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Lucht en motorsport",
+                "fr": "Sports aero et moteurs",
+                "de": "Luft-und Motorsport",
+                "en": "Air and motorsports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.10.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Volkssporten",
+                "fr": "Sports folkloriques",
+                "de": "Sport Menschen",
+                "en": "Folklore sports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.51.12.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Omnisport en andere",
+                "fr": "Omnisports et autres",
+                "de": "Omnisport und andere",
+                "en": "Other sports"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.3.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Tekst en muziektheater",
+                "fr": "Th\u00e9\u00e2tre dramatique et musical",
+                "de": "Text und Musik",
+                "en": "Theatre and Musical theatre"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.3.10.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Humor en comedy",
+                "fr": "L'humour et la com\u00e9die",
+                "de": "Humor und comedy",
+                "en": "Humor and comedy"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.4.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Musical",
+                "fr": "Com\u00e9die musicale",
+                "de": "Musical",
+                "en": "Musical"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.3.5.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Figuren en poppentheater",
+                "fr": "Th\u00e9\u00e2tre de marionnettes",
+                "de": "Figuren und Marionetten",
+                "en": "Puppetry"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.5.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Opera en operette",
+                "fr": "Op\u00e9ra et op\u00e9rette",
+                "de": "Oper und Operette",
+                "en": "Opera and operetta"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.3.4.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Mime en bewegingstheater",
+                "fr": "Mime et the\u00e9\u00e2tre de mouvements",
+                "de": "Mime und Bewegungstheater",
+                "en": "Mime "
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.25.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Wetenschap",
+                "fr": "Science",
+                "de": "Wissenschaft",
+                "en": "Science"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.44.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Zingeving, filosofie en religie",
+                "fr": "Sense de la vie, philosophie et religion",
+                "de": "Philosophie und Religion",
+                "en": "Philosophy and religion"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.58.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Thema onbepaald",
+                "fr": "Th\u00e8me non d\u00e9fini",
+                "de": "unbestimmt",
+                "en": "Theme undefined"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
             "id": "3.0.0.0.0",
             "domain": "facility",
             "name": {
@@ -2889,6 +3773,58 @@
             ]
         },
         {
+            "id": "1.0.9.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Meerdere kunstvormen",
+                "fr": "Arts multiples",
+                "de": "Mehrere Formen der Kunst",
+                "en": "Multiple art forms"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.7.14.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Meerdere filmgenres",
+                "fr": "Films de tous genres",
+                "de": "Mehrere Filmgenres",
+                "en": "Multiple film genres"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.37.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Gezondheid en zorg",
+                "fr": "Sant\u00e9 et soins",
+                "de": "Gesundheit und Pflege",
+                "en": "Health and care"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.37.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Samenleving",
+                "fr": "Vivre en soci\u00e9t\u00e9",
+                "de": "Gesellschaft",
+                "en": "Society"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
             "id": "3.23.1.0.0",
             "domain": "facility",
             "name": {
@@ -3043,6 +3979,32 @@
             ]
         },
         {
+            "id": "1.7.15.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Thriller",
+                "fr": "Films \u00e0 suspense",
+                "de": "Thriller",
+                "en": "Thriller"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.65.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Voeding",
+                "fr": "Nutrition",
+                "de": "Ern\u00e4hrung",
+                "en": "Nutrition"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
             "id": "0.100.0.0.0",
             "domain": "eventtype",
             "name": {
@@ -3076,6 +4038,19 @@
                 "fr": "Visites",
                 "de": "Besuchen",
                 "en": "Visits"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.66.0.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Economie",
+                "fr": "\u00c9conomie",
+                "de": "Wirtschaft",
+                "en": "Economy"
             },
             "scope": [
                 "events"
@@ -3472,6 +4447,32 @@
             "scope": [
                 "events",
                 "places"
+            ]
+        },
+        {
+            "id": "1.11.1.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Taal en communicatie",
+                "fr": "Langue et communication",
+                "de": "Sprache und Kommunikation",
+                "en": "Language and communication"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "1.11.2.0.0",
+            "domain": "theme",
+            "name": {
+                "nl": "Themakamp",
+                "fr": "Camp th\u00e9matique",
+                "de": "Themencamp",
+                "en": "Theme camp"
+            },
+            "scope": [
+                "events"
             ]
         },
         {

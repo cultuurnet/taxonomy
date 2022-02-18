@@ -15,7 +15,7 @@ def check_scope(domain, id):
     return ['events']
 
 theme_list = []
-type_facility_list = []
+terms_list = []
 place_types = [
     '0.14.0.0.0',             # Monument       
     '0.15.0.0.0',             # Natuur, park of tuin
@@ -343,21 +343,21 @@ for categorisation in root.findall('{http://www.cultuurdatabank.com/XMLSchema/Cd
 
             if domain == 'theme':
                 theme_list.append(term_info)
-            else:
-                type_facility_list.append(term_info)
+            
+            terms_list.append(term_info)
 
-for type_facility in type_facility_list:
-    if type_facility['id'] in suggestions.keys():
+for term in terms_list:
+    if term['id'] in suggestions.keys():
         suggestions_list = []
-        for other_term in suggestions[type_facility['id']]:
+        for other_term in suggestions[term['id']]:
             theme = next(t for t in theme_list if t['id'] == other_term)
             suggestions_list.append(theme)
-            type_facility['otherSuggestedTerms'] = suggestions_list
+            term['otherSuggestedTerms'] = suggestions_list
 
-terms_list = { 'terms': type_facility_list}
+terms_dict = { 'terms': terms_list}
 
 with open('term.json', 'w') as pretty_file:
-    json.dump(terms_list, pretty_file, indent = 4)
+    json.dump(terms_dict, pretty_file, indent = 4)
     
 with open('../json/term.json', 'w') as dump_file:
-    json.dump(terms_list, dump_file)
+    json.dump(terms_dict, dump_file)
