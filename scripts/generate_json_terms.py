@@ -357,5 +357,8 @@ for type_facility in type_facility_list:
             suggestions_list.append(theme)
             type_facility['otherSuggestedTerms'] = suggestions_list
 
+with open('term.json', 'w') as pretty_file:
+    json.dump(type_facility_list, pretty_file, indent = 4)
+    
 with open('../json/term.json', 'w') as dump_file:
     json.dump(type_facility_list, dump_file)
