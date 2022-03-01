@@ -356,8 +356,8 @@ for term in terms_list:
 
 terms_dict = { 'terms': terms_list}
 
-with open('term.json', 'w') as pretty_file:
+with open('terms.json', 'w') as pretty_file:
     json.dump(terms_dict, pretty_file, indent = 4)
     
-with open('../json/term.json', 'w') as dump_file:
+with open('../json/terms.json', 'w') as dump_file:
     json.dump(terms_dict, dump_file)
