@@ -4060,10 +4060,10 @@
             "id": "3CuHvenJ+EGkcvhXLg9Ykg",
             "domain": "eventtype",
             "name": {
-                "nl": "Archeologische Site",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "nl": "Archeologische site",
+                "fr": "Site arch\u00e9ologique",
+                "de": "Arch\u00e4ologische St\u00e4tte",
+                "en": "Archaeological site"
             },
             "scope": [
                 "places"
@@ -4074,9 +4074,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "School of onderwijscentrum",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "\u00c9cole ou centre \u00e9ducatif",
+                "de": "Schule oder Bildungszentrum",
+                "en": "School or educational centre"
             },
             "scope": [
                 "places"
@@ -4087,9 +4087,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Sportcentrum",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Centre sportif",
+                "de": "Sportzentrum",
+                "en": "Sports Centre"
             },
             "scope": [
                 "places"
@@ -4100,9 +4100,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Winkel",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Magasin",
+                "de": "Laden",
+                "en": "Shop"
             },
             "scope": [
                 "places"
@@ -4113,9 +4113,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Museum of galerij",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Mus\u00e9e ou galerie",
+                "de": "Museum oder Galerie",
+                "en": "Museum or gallery"
             },
             "scope": [
                 "places"
@@ -4126,9 +4126,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Jeugdhuis of jeugdcentrum",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Maison de jeunes ou centre de jeunesse",
+                "de": "Jugendzentrum",
+                "en": "Youth centre"
             },
             "scope": [
                 "places"
@@ -4139,9 +4139,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Cultuur- of ontmoetingscentrum",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Centre culturel ou centre de r\u00e9union",
+                "de": "Kultur- oder Begegnungszentrum",
+                "en": "Cultural centre"
             },
             "scope": [
                 "places"
@@ -4152,9 +4152,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Discotheek",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Discoth\u00e8que",
+                "de": "Diskothek",
+                "en": "Nightclub"
             },
             "scope": [
                 "places"
@@ -4165,9 +4165,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Bibliotheek of documentatiecentrum",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Biblioth\u00e8que ou centre de documentation",
+                "de": "Bibliothek oder Dokumentationszentrum",
+                "en": "Library or documentation centre"
             },
             "scope": [
                 "places"
@@ -4178,9 +4178,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Bioscoop",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Cin\u00e9ma",
+                "de": "Kino",
+                "en": "Cinema"
             },
             "scope": [
                 "places"
@@ -4191,9 +4191,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Horeca",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Horeca",
+                "de": "Gastgewerbe",
+                "en": "Hospitality"
             },
             "scope": [
                 "places"
@@ -4204,9 +4204,9 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Zaal of expohal",
-                "fr": "",
-                "de": "",
-                "en": ""
+                "fr": "Hall ou salle d'expo",
+                "de": "Saal oder Expo-Halle",
+                "en": "Hall or exhibition hall"
             },
             "scope": [
                 "places"
