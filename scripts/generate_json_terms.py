@@ -35,6 +35,7 @@ place_types = [
     'ekdc4ATGoUitCa0e6me6xA', # Horeca
     'kI7uAyn2uUu9VV6Z3uWZTA', # Bibliotheek of documentatiecentrum
     'rJRFUqmd6EiqTD4c7HS90w', # School of onderwijscentrum
+    'wwjRVmExI0w6xfQwT1KWpx', # Speeltuin
 ]
 
 suggestions = {
