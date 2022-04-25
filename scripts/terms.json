@@ -4200,6 +4200,19 @@
             ]
         },
         {
+            "id": "wwjRVmExI0w6xfQwT1KWpx",
+            "domain": "eventtype",
+            "name": {
+                "nl": "Speeltuin",
+                "fr": "Cour de r\u00e9cr\u00e9ation",
+                "de": "Spielplatz",
+                "en": "Playground"
+            },
+            "scope": [
+                "places"
+            ]
+        },
+        {
             "id": "OyaPaf64AEmEAYXHeLMAtA",
             "domain": "eventtype",
             "name": {
