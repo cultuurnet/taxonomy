@@ -871,19 +871,6 @@
             ]
         },
         {
-            "id": "0.56.0.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Toeristisch evenement",
-                "fr": "\u00c9v\u00e9nement touristique",
-                "de": "Touristische Veranstaltung",
-                "en": "Tourism events"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
             "id": "0.19.0.0.0",
             "domain": "eventtype",
             "name": {
@@ -2393,19 +2380,6 @@
             ]
         },
         {
-            "id": "0.3.3.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Congres of studiedag",
-                "fr": "Congr\u00e8s ou journ\u00e9e d'\u00e9tude",
-                "de": "Konferenz oder Seminar",
-                "en": "Congress, conference"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
             "id": "0.57.0.0.0",
             "domain": "eventtype",
             "name": {
@@ -3606,118 +3580,6 @@
             ]
         },
         {
-            "id": "3.0.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Giftshop",
-                "fr": "Boutique de cadeaux",
-                "de": "Geschenkboutique",
-                "en": "Giftshop"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.1.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Bibliotheek, archief of documentatiecentrum",
-                "fr": "Biblioth\u00e8que, archives et centre de documentation",
-                "de": "Bibliothek, Archiv und Dokumentation",
-                "en": "Library, archive or documentation center"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.3.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Eetgelegenheid",
-                "fr": "Restaurant",
-                "de": "Restaurant",
-                "en": "Restaurant"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.4.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Drankgelegenheid",
-                "fr": "Caf\u00e9",
-                "de": "Caf\u00e9",
-                "en": "Cafe"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.5.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Autoparking",
-                "fr": "Parking automobiles",
-                "de": "Parkplatz",
-                "en": "Car parking"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.6.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Busparking",
-                "fr": "Parking autobus",
-                "de": "Busparkplatz",
-                "en": "Bus parking"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.8.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Baby of luierhoek",
-                "fr": "Coin de toilette pour b\u00e9b\u00e9s",
-                "de": "Baby-Windel Ecke",
-                "en": "Baby or diaper corner"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.9.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Kinderopvang",
-                "fr": "Garderie d'enfants",
-                "de": "Kindergarten",
-                "en": "Kindergarten"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
             "id": "3.14.0.0.0",
             "domain": "facility",
             "name": {
@@ -3725,34 +3587,6 @@
                 "fr": "Services \u00e9ducatifs",
                 "de": "Bildungsleistungen",
                 "en": "Educational service"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.15.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Audiogids",
-                "fr": "Guide audio",
-                "de": "Audioguide",
-                "en": "Audioguide"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.16.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Gids",
-                "fr": "Guide",
-                "de": "F\u00fchrung",
-                "en": "Guide"
             },
             "scope": [
                 "events",
@@ -3888,48 +3722,6 @@
                 "fr": "Audiod\u00e9scription",
                 "de": "Audio-Beschreibung",
                 "en": "Audiodescription"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.13.3.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Brochure beschikbaar in braille",
-                "fr": "Disponibilit\u00e9 de brochure en braille",
-                "de": "Brosch\u00fcre in Blindenschrift",
-                "en": "Brochure available in braille"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.13.4.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Brochure beschikbaar in grootletterschrift",
-                "fr": "Disponibilit\u00e9 de brochure en gros caract\u00e8res",
-                "de": "Brosch\u00fcre in Gro\u00dfdruck Skript",
-                "en": "Brochure available in large print"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
-            "id": "3.13.5.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Brochure beschikbaar in gesproken vorm",
-                "fr": "Disponibilit\u00e9 de brochure orale",
-                "de": "Brosch\u00fcre in gesprochener Form",
-                "en": "Brochure available in spoken form"
             },
             "scope": [
                 "events",
