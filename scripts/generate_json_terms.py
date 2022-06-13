@@ -329,6 +329,10 @@ for categorisation in root.findall('{http://www.cultuurdatabank.com/XMLSchema/Cd
     for term in categorisation:
         domain = term.get('domain')
         id = term.get('id')
+        enabled = term.get('enabled')
+
+        if enabled == 'false':
+            continue
 
         if domain == 'eventtype' or domain == 'theme' or domain == 'facility':
             term_info = {}
