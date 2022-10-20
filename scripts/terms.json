@@ -4157,20 +4157,6 @@
             ]
         },
         {
-            "id": "3.35.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "1 begeleider gratis",
-                "fr": "Un accompagnateur gratuit",
-                "de": "Freier Eintritt f\u00fcr Begleitperson",
-                "en": "Free carer ticket"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
             "id": "3.36.0.0.0",
             "domain": "facility",
             "name": {
