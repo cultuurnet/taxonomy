@@ -3743,20 +3743,6 @@
             ]
         },
         {
-            "id": "3.17.2.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Voelstoelen",
-                "fr": "Chaise sonores",
-                "de": "AudioSt\u00fchle",
-                "en": "Feel chairs"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
             "id": "3.17.3.0.0",
             "domain": "facility",
             "name": {
