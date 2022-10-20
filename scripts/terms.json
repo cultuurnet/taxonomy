@@ -4227,6 +4227,34 @@
             ]
         },
         {
+            "id": "H28fcfRKFQAQs00K9NF9hh",
+            "domain": "facility",
+            "name": {
+                "nl": "Prikkelarm aanbod",
+                "fr": "Offre faiblement incitative",
+                "de": "Anreizarmes Angebot",
+                "en": "Low incentive"
+            },
+            "scope": [
+                "events",
+                "places"
+            ]
+        },
+        {
+            "id": "4Vz9eZf0cnQmtfqcGGnNMF",
+            "domain": "facility",
+            "name": {
+                "nl": "Afspraken en voorspelbaarheid",
+                "fr": "Accords et pr\u00e9visibilit\u00e9",
+                "de": "Vereinbarungen und Vorhersehbarkeit",
+                "en": "Agreements and predictability"
+            },
+            "scope": [
+                "events",
+                "places"
+            ]
+        },
+        {
             "id": "1.11.1.0.0",
             "domain": "theme",
             "name": {
