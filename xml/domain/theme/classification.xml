@@ -2,8 +2,8 @@
 <cdbxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.2/FINAL">
   <nofrecords>77</nofrecords>
   <categorisation url="https://taxonomy.uitdatabank.be/api/domain/theme/classification">
-    <term createdby="Publiq" creationdate="2019-01-08T08:19:09" domain="theme" enabled="true" id="1.11.2.0.0" label="Themakamp" labelnl="Themakamp" labelfr="Camp thématique" labelen="Theme camp" labelde="Themencamp" show="true" sort="1" />
-    <term createdby="Publiq" creationdate="2019-01-08T08:18:03" domain="theme" enabled="true" id="1.11.1.0.0" label="Taal en communicatie" labelnl="Taal en communicatie" labelfr="Langue et communication" labelen="Language and communication" labelde="Sprache und Kommunikation" show="true" sort="2" />
+    <term createdby="publiq" creationdate="2019-01-08T08:19:09" domain="theme" enabled="true" id="1.11.2.0.0" label="Themakamp" labelnl="Themakamp" labelfr="Camp thématique" labelen="Theme camp" labelde="Themencamp" show="true" sort="1" />
+    <term createdby="publiq" creationdate="2019-01-08T08:18:03" domain="theme" enabled="true" id="1.11.1.0.0" label="Taal en communicatie" labelnl="Taal en communicatie" labelfr="Langue et communication" labelen="Language and communication" labelde="Sprache und Kommunikation" show="true" sort="2" />
     <term createdby="publiq" creationdate="2013-03-26T20:53:07" domain="theme" enabled="true" id="1.17.0.0.0" label="Antiek en brocante" labelnl="Antiek en brocante" labelfr="Antiquités ou brocantes" labelen="Antiques" labelde="Antik-und Flohmarkt" show="true" sort="3" />
     <term createdby="publiq" creationdate="2013-03-26T20:53:07" domain="theme" enabled="true" id="1.2.1.0.0" label="Architectuur" labelnl="Architectuur" labelfr="Architecture" labelen="Architecture" labelde="Architektur" show="true" sort="4" />
     <term createdby="publiq" creationdate="2013-03-26T20:53:07" domain="theme" enabled="true" id="1.1.0.0.0" label="Audiovisuele kunst" labelnl="Audiovisuele kunst" labelfr="Arts audiovisuels" labelen="Audiovisual arts" labelde="Audiovisuelle Kunst" show="true" sort="5" />
