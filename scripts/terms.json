@@ -3743,20 +3743,6 @@
             ]
         },
         {
-            "id": "3.17.2.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "Voelstoelen",
-                "fr": "Chaise sonores",
-                "de": "AudioSt\u00fchle",
-                "en": "Feel chairs"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
             "id": "3.17.3.0.0",
             "domain": "facility",
             "name": {
@@ -4171,20 +4157,6 @@
             ]
         },
         {
-            "id": "3.35.0.0.0",
-            "domain": "facility",
-            "name": {
-                "nl": "1 begeleider gratis",
-                "fr": "Un accompagnateur gratuit",
-                "de": "Freier Eintritt f\u00fcr Begleitperson",
-                "en": "Free carer ticket"
-            },
-            "scope": [
-                "events",
-                "places"
-            ]
-        },
-        {
             "id": "3.36.0.0.0",
             "domain": "facility",
             "name": {
@@ -4248,6 +4220,34 @@
                 "fr": "Accessibilit\u00e9 garantie",
                 "de": "Zertifizierte Zug\u00e4nglichkeit",
                 "en": "Certified accessibility"
+            },
+            "scope": [
+                "events",
+                "places"
+            ]
+        },
+        {
+            "id": "H28fcfRKFQAQs00K9NF9hh",
+            "domain": "facility",
+            "name": {
+                "nl": "Prikkelarm aanbod",
+                "fr": "Offre faiblement incitative",
+                "de": "Anreizarmes Angebot",
+                "en": "Low incentive"
+            },
+            "scope": [
+                "events",
+                "places"
+            ]
+        },
+        {
+            "id": "4Vz9eZf0cnQmtfqcGGnNMF",
+            "domain": "facility",
+            "name": {
+                "nl": "Afspraken en voorspelbaarheid",
+                "fr": "Accords et pr\u00e9visibilit\u00e9",
+                "de": "Vereinbarungen und Vorhersehbarkeit",
+                "en": "Agreements and predictability"
             },
             "scope": [
                 "events",
