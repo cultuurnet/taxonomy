@@ -4236,8 +4236,7 @@
                 "en": "Low incentive"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4250,8 +4249,7 @@
                 "en": "Agreements and predictability"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
