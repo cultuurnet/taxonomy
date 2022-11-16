@@ -3589,8 +3589,7 @@
                 "en": "Educational service"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -3668,8 +3667,7 @@
                 "en": "Wheelchair facilities"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -3682,8 +3680,7 @@
                 "en": "Assistance"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -3724,8 +3721,7 @@
                 "en": "Audiodescription"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -3738,8 +3734,7 @@
                 "en": "Audio induction loop"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -3752,8 +3747,7 @@
                 "en": "Subtitles"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4054,8 +4048,7 @@
                 "en": "Accessible for wheelchairs"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4068,8 +4061,7 @@
                 "en": "Alternative entrance"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4082,8 +4074,7 @@
                 "en": "Guaranteed view"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4096,8 +4087,7 @@
                 "en": "Viewing platform"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4110,8 +4100,7 @@
                 "en": "Accessible sanitary facilities"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4124,8 +4113,7 @@
                 "en": "Reserved campsite"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4138,8 +4126,7 @@
                 "en": "Sign language interpreting service"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4152,8 +4139,7 @@
                 "en": "Simplified information"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4166,8 +4152,7 @@
                 "en": "Care room"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4180,8 +4165,7 @@
                 "en": "Charging facility for wheelchairs"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4194,8 +4178,7 @@
                 "en": "Special assistance"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4208,8 +4191,7 @@
                 "en": "Carer pass"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
@@ -4222,8 +4204,7 @@
                 "en": "Certified accessibility"
             },
             "scope": [
-                "events",
-                "places"
+                "events"
             ]
         },
         {
