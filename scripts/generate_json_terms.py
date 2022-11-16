@@ -6,7 +6,7 @@ from xml import dom
 import xml.etree.ElementTree as ET
 
 def check_scope(domain, id):
-    if domain == 'facility':
+    if domain == 'facility' and id in event_place_facilities:
         return ['events', 'places']
     if domain == 'theme':
         return ['events']
@@ -14,6 +14,12 @@ def check_scope(domain, id):
         return ['places']
     return ['events']
 
+event_place_facilities = [
+    '3.13.1.0.0', # Voorzieningen voor assistentiehonden
+    '3.23.3.0.0', # Rolstoel ter beschikking
+    '3.25.0.0.0', # Contactpunt voor personen met handicap
+    '3.26.0.0.0', # Parkeerplaats
+]
 theme_list = []
 terms_list = []
 place_types = [
