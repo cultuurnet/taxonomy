@@ -1267,19 +1267,6 @@
             ]
         },
         {
-            "id": "0.16.0.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Park of tuin",
-                "fr": "Jardin ou parc",
-                "de": "Park oder Garten",
-                "en": "Garden or park"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
             "id": "0.6.0.0.0",
             "domain": "eventtype",
             "name": {
