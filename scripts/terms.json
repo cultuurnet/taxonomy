@@ -2363,6 +2363,19 @@
                     "scope": [
                         "events"
                     ]
+                },
+                {
+                    "id": "1.21.0.0.0",
+                    "domain": "theme",
+                    "name": {
+                        "nl": "Computer en techniek",
+                        "fr": "Ordinateurs et technologie",
+                        "de": "Computer-und Technik",
+                        "en": "Computer and technology"
+                    },
+                    "scope": [
+                        "events"
+                    ]
                 }
             ]
         },
@@ -4813,6 +4826,19 @@
                         "fr": "Sense de la vie, philosophie et religion",
                         "de": "Philosophie und Religion",
                         "en": "Philosophy and religion"
+                    },
+                    "scope": [
+                        "events"
+                    ]
+                },
+                {
+                    "id": "1.21.0.0.0",
+                    "domain": "theme",
+                    "name": {
+                        "nl": "Computer en techniek",
+                        "fr": "Ordinateurs et technologie",
+                        "de": "Computer-und Technik",
+                        "en": "Computer and technology"
                     },
                     "scope": [
                         "events"
