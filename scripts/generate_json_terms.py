@@ -126,6 +126,7 @@ suggestions = {
         '1.65.0.0.0',  # Voeding - Varia
         '1.25.0.0.0',  # Wetenschap - Varia
         '1.44.0.0.0',  # Zingeving, filosofie en religie - Varia
+        '1.21.0.0.0',  # Computer en techniek
     ],
     # Cursus met open sessies
     '0.3.1.0.1': [
@@ -172,6 +173,7 @@ suggestions = {
         '1.65.0.0.0',  # Voeding - Varia
         '1.25.0.0.0',  # Wetenschap - Varia
         '1.44.0.0.0',  # Zingeving, filosofie en religie - Varia
+        '1.21.0.0.0',  # Computer en techniek
     ],
     # Dansvoorstelling
     '0.54.0.0.0': [
