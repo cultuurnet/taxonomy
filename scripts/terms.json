@@ -3777,45 +3777,6 @@
             ]
         },
         {
-            "id": "0.100.0.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Kijken en luisteren",
-                "fr": "\u00c9v\u00e9nements",
-                "de": "Events",
-                "en": "Events"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
-            "id": "0.100.1.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Doen",
-                "fr": "Activit\u00e9s",
-                "de": "Aktivit\u00e4ter",
-                "en": "Activities"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
-            "id": "0.100.2.0.0",
-            "domain": "eventtype",
-            "name": {
-                "nl": "Bezoeken",
-                "fr": "Visites",
-                "de": "Besuchen",
-                "en": "Visits"
-            },
-            "scope": [
-                "events"
-            ]
-        },
-        {
             "id": "1.66.0.0.0",
             "domain": "theme",
             "name": {
