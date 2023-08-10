@@ -1438,6 +1438,19 @@
                     ]
                 },
                 {
+                    "id": "1.21.0.0.0",
+                    "domain": "theme",
+                    "name": {
+                        "nl": "Computer en techniek",
+                        "fr": "Ordinateurs et technologie",
+                        "de": "Computer-und Technik",
+                        "en": "Computer and technology"
+                    },
+                    "scope": [
+                        "events"
+                    ]
+                },
+                {
                     "id": "1.1.0.0.0",
                     "domain": "theme",
                     "name": {
