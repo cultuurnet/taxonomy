@@ -306,6 +306,7 @@ suggestions = {
     # Tentoonstelling
     '0.0.0.0.0': [
         '1.2.1.0.0',  # Architectuur
+        '1.21.0.0.0', # Computer en techniek
         '1.1.0.0.0',  # Audiovisuele kunst
         '1.0.2.0.0',  # Beeldhouwkunst
         '1.0.5.0.0',  # Decoratieve kunst
