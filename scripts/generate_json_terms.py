@@ -20,6 +20,11 @@ event_place_facilities = [
     '3.25.0.0.0', # Contactpunt voor personen met handicap
     '3.26.0.0.0', # Parkeerplaats
 ]
+other_legacy_terms = [
+    '0.100.0.0.0', # Kijken en luisteren
+    '0.100.1.0.0', # Doen
+    '0.100.2.0.0', # Bezoeken
+]
 theme_list = []
 terms_list = []
 place_types = [
@@ -301,6 +306,7 @@ suggestions = {
     # Tentoonstelling
     '0.0.0.0.0': [
         '1.2.1.0.0',  # Architectuur
+        '1.21.0.0.0', # Computer en techniek
         '1.1.0.0.0',  # Audiovisuele kunst
         '1.0.2.0.0',  # Beeldhouwkunst
         '1.0.5.0.0',  # Decoratieve kunst
@@ -340,6 +346,9 @@ for categorisation in root.findall('{http://www.cultuurdatabank.com/XMLSchema/Cd
         enabled = term.get('enabled')
 
         if enabled == 'false':
+            continue
+
+        if id in other_legacy_terms:
             continue
 
         if domain == 'eventtype' or domain == 'theme' or domain == 'facility':
