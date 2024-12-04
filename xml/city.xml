@@ -1971,10 +1971,11 @@
     <city id="1760_ROOSDAAL" label="Roosdaal" zip="1760" labelnl="Roosdaal" submunicipality="false" />
     <city id="1760_PAMEL" label="Pamel (Roosdaal)" zip="1760" labelnl="Pamel (Roosdaal)" parent="1760_ROOSDAAL" submunicipality="true" />
     <city id="1760_ONZE-LIEVE-VROUW-LOMBEEK" label="Onze-Lieve-Vrouw-Lombeek (Roosdaal)" zip="1760" labelnl="Onze-Lieve-Vrouw-Lombeek (Roosdaal)" parent="1760_ROOSDAAL" submunicipality="true" />
-    <city id="1755_OETINGEN" label="Oetingen (Gooik)" zip="1755" labelnl="Oetingen (Gooik)" parent="1755_GOOIK" submunicipality="true" />
-    <city id="1755_LEERBEEK" label="Leerbeek (Gooik)" zip="1755" labelnl="Leerbeek (Gooik)" parent="1755_GOOIK" submunicipality="true" />
-    <city id="1755_KESTER" label="Kester (Gooik)" zip="1755" labelnl="Kester (Gooik)" parent="1755_GOOIK" submunicipality="true" />
-    <city id="1755_GOOIK" label="Gooik" zip="1755" labelnl="Gooik" submunicipality="false" />
+    <city id="1755_OETINGEN" label="Oetingen (Pajottegem)" zip="1755" labelnl="Oetingen (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1755_LEERBEEK" label="Leerbeek (Pajottegem)" zip="1755" labelnl="Leerbeek (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1755_KESTER" label="Kester (Pajottegem)" zip="1755" labelnl="Kester (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1755_PAJOTTEGEM" label="Pajottegem" zip="1755" labelnl="Pajottegem" submunicipality="false" />
+    <city id="1755_GOOIK" label="Gooik (Pajottegem)" zip="1755" labelnl="Gooik (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
     <city id="1750_SINT-MARTENS-LENNIK" label="Sint-Martens-Lennik (Lennik)" zip="1750" labelnl="Sint-Martens-Lennik (Lennik)" parent="1750_LENNIK" submunicipality="true" />
     <city id="1750_SINT-KWINTENS-LENNIK" label="Sint-Kwintens-Lennik (Lennik)" zip="1750" labelnl="Sint-Kwintens-Lennik (Lennik)" parent="1750_LENNIK" submunicipality="true" />
     <city id="1750_LENNIK" label="Lennik" zip="1750" labelnl="Lennik" submunicipality="false" />
@@ -2013,12 +2014,12 @@
     <city id="1600_SINT-PIETERS-LEEUW" label="Sint-Pieters-Leeuw" zip="1600" labelnl="Sint-Pieters-Leeuw" submunicipality="false" />
     <city id="1600_SINT-LAUREINS-BERCHEM" label="Sint-Laureins-Berchem (Sint-Pieters-Leeuw)" zip="1600" labelnl="Sint-Laureins-Berchem (Sint-Pieters-Leeuw)" parent="1600_SINT-PIETERS-LEEUW" submunicipality="true" />
     <city id="1600_OUDENAKEN" label="Oudenaken (Sint-Pieters-Leeuw)" zip="1600" labelnl="Oudenaken (Sint-Pieters-Leeuw)" parent="1600_SINT-PIETERS-LEEUW" submunicipality="true" />
-    <city id="1570_VOLLEZELE" label="Vollezele (Galmaarden)" zip="1570" labelnl="Vollezele (Galmaarden)" parent="1570_GALMAARDEN" submunicipality="true" />
-    <city id="1570_TOLLEMBEEK" label="Tollembeek (Galmaarden)" zip="1570" labelnl="Tollembeek (Galmaarden)" parent="1570_GALMAARDEN" submunicipality="true" />
-    <city id="1570_GALMAARDEN" label="Galmaarden" zip="1570" labelnl="Galmaarden" submunicipality="false" />
+    <city id="1570_VOLLEZELE" label="Vollezele (Pajottegem)" zip="1570" labelnl="Vollezele (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1570_TOLLEMBEEK" label="Tollembeek (Pajottegem)" zip="1570" labelnl="Tollembeek (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1570_GALMAARDEN" label="Galmaarden (Pajottegem)" zip="1570" labelnl="Galmaarden (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
     <city id="1560_HOEILAART" label="Hoeilaart" zip="1560" labelnl="Hoeilaart" submunicipality="false" />
-    <city id="1540_HERNE" label="Herne" zip="1540" labelnl="Herne" submunicipality="false" />
-    <city id="1540_HERFELINGEN" label="Herfelingen (Herne)" zip="1540" labelnl="Herfelingen (Herne)" parent="1540_HERNE" submunicipality="true" />
+    <city id="1540_HERNE" label="Herne (Pajottegem)" zip="1540" labelnl="Herne (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
+    <city id="1540_HERFELINGEN" label="Herfelingen (Pajottegem)" zip="1540" labelnl="Herfelingen (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
     <city id="1502_LEMBEEK" label="Lembeek (Halle)" zip="1502" labelnl="Lembeek (Halle)" parent="1500_HALLE" submunicipality="true" />
     <city id="1501_BUIZINGEN" label="Buizingen (Halle)" zip="1501" labelnl="Buizingen (Halle)" parent="1500_HALLE" submunicipality="true" />
     <city id="1500_HALLE" label="Halle" zip="1500" labelnl="Halle" submunicipality="false" />
@@ -2683,7 +2684,7 @@
     <city id="9620_ST-MARIA-OUDENHOVE" label="Sint-Maria-Oudenhove (Zottegem)" zip="9620" labelnl="Sint-Maria-Oudenhove (Zottegem)" labelfr="Sint-Maria-Oudenhove (Zottegem)" labelen="Sint-Maria-Oudenhove (Zottegem)" labelde="Sint-Maria-Oudenhove (Zottegem)" parent="9620_ZOTTEGEM" submunicipality="true" />
     <city id="8433_ST-PIETERS-KAPELLE" label="Sint-Pieters-Kapelle (Middelkerke)" zip="8433" labelnl="Sint-Pieters-Kapelle (Middelkerke)" labelfr="Sint-Pieters-Kapelle (Middelkerke)" labelen="Sint-Pieters-Kapelle (Middelkerke)" labelde="Sint-Pieters-Kapelle (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
     <city id="2260_VOORTKAPEL" label="Voortkapel (Westerlo)" zip="2260" labelnl="Voortkapel (Westerlo)" parent="2260_WESTERLO" submunicipality="true" />
-    <city id="1541_SINT-PIETERS-KAPELLE" label="Sint-Pieters-Kapelle (Herne)" zip="1541" labelnl="Sint-Pieters-Kapelle (Herne)" parent="1540_HERNE" submunicipality="true" />
+    <city id="1541_SINT-PIETERS-KAPELLE" label="Sint-Pieters-Kapelle (Pajottegem)" zip="1541" labelnl="Sint-Pieters-Kapelle (Pajottegem)" parent="1755_PAJOTTEGEM" submunicipality="true" />
     <city id="1547_BEVER" label="Bever" zip="1547" labelnl="Bever" submunicipality="false" />
     <city id="1601_RUISBROEK" label="Ruisbroek (Sint-Pieters-Leeuw)" zip="1601" labelnl="Ruisbroek (Sint-Pieters-Leeuw)" parent="1600_SINT-PIETERS-LEEUW" submunicipality="true" />
     <city id="1640_SINT-GENESIUS-RODE" label="Sint-Genesius-Rode" zip="1640" labelnl="Sint-Genesius-Rode" submunicipality="false" />
