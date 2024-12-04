@@ -2416,13 +2416,14 @@
     <city id="3740_HEES" label="Hees (Bilzen)" zip="3740" labelnl="Hees (Bilzen)" parent="3740_BILZEN" submunicipality="true" />
     <city id="3740_GROTE-SPOUWEN" label="Grote-Spouwen (Bilzen)" zip="3740" labelnl="Grote-Spouwen (Bilzen)" parent="3740_BILZEN" submunicipality="true" />
     <city id="3740_EIGENBILZEN" label="Eigenbilzen (Bilzen)" zip="3740" labelnl="Eigenbilzen (Bilzen)" parent="3740_BILZEN" submunicipality="true" />
-    <city id="3740_BILZEN" label="Bilzen" zip="3740" labelnl="Bilzen" submunicipality="false" />
+    <city id="3740_BILZEN" label="Bilzen (Bilzen-Hoeselt)" zip="3740" labelnl="Bilzen (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
     <city id="3740_BEVERST" label="Beverst (Bilzen)" zip="3740" labelnl="Beverst (Bilzen)" parent="3740_BILZEN" submunicipality="true" />
-    <city id="3732_SCHALKHOVEN" label="Schalkhoven (Hoeselt)" zip="3732" labelnl="Schalkhoven (Hoeselt)" parent="3730_HOESELT" submunicipality="true" />
-    <city id="3730_WERM" label="Werm (Hoeselt)" zip="3730" labelnl="Werm (Hoeselt)" parent="3730_HOESELT" submunicipality="true" />
-    <city id="3730_SINT-HUIBRECHTS-HERN" label="Sint-Huibrechts-Hern (Hoeselt)" zip="3730" labelnl="Sint-Huibrechts-Hern (Hoeselt)" parent="3730_HOESELT" submunicipality="true" />
-    <city id="3730_ROMERSHOVEN" label="Romershoven (Hoeselt)" zip="3730" labelnl="Romershoven (Hoeselt)" parent="3730_HOESELT" submunicipality="true" />
-    <city id="3730_HOESELT" label="Hoeselt" zip="3730" labelnl="Hoeselt" submunicipality="false" />
+    <city id="3732_SCHALKHOVEN" label="Schalkhoven (Bilzen-Hoeselt)" zip="3732" labelnl="Schalkhoven (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="3730_WERM" label="Werm (Bilzen-Hoeselt)" zip="3730" labelnl="Werm (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="3730_SINT-HUIBRECHTS-HERN" label="Sint-Huibrechts-Hern (Bilzen-Hoeselt)" zip="3730" labelnl="Sint-Huibrechts-Hern (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="3730_ROMERSHOVEN" label="Romershoven (Bilzen-Hoeselt)" zip="3730" labelnl="Romershoven (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="3730_BILZEN-HOESELT" label="Bilzen-Hoeselt" zip="3730" labelnl="Hoeselt" submunicipality="false" />
+    <city id="3730_HOESELT" label="Hoeselt (Bilzen-Hoeselt)" zip="3730" labelnl="Hoeselt (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
     <city id="3724_VLIERMAAL" label="Vliermaal (Hasselt)" zip="3724" labelnl="Vliermaal (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3723_GUIGOVEN" label="Guigoven (Hasselt)" zip="3723" labelnl="Guigoven (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3722_WINTERSHOVEN" label="Wintershoven (Hasselt)" zip="3722" labelnl="Wintershoven (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
