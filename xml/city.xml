@@ -2695,7 +2695,7 @@
     <city id="2030_ANTWERPEN_3" label="Antwerpen 3 (Antwerpen)" zip="2030" labelnl="Antwerpen 3 (Antwerpen)" parent="2000_ANTWERPEN" submunicipality="true" />
     <city id="2050_ANTWERPEN_5" label="Antwerpen 5 (Antwerpen)" zip="2050" labelnl="Antwerpen 5 (Antwerpen)" parent="2000_ANTWERPEN" submunicipality="true" />
     <city id="2060_ANTWERPEN_6" label="Antwerpen 6 (Antwerpen)" zip="2060" labelnl="Antwerpen 6 (Antwerpen)" parent="2000_ANTWERPEN" submunicipality="true" />
-    <city id="2150_BORSBEEK" label="Borsbeek" zip="2150" labelnl="Borsbeek" parent="2000_ANTWERPEN" submunicipality="true" />
+    <city id="2150_BORSBEEK" label="Borsbeek (Antwerpen)" zip="2150" labelnl="Borsbeek (Antwerpen)" parent="2000_ANTWERPEN" submunicipality="true" />
     <city id="2260_TONGERLO" label="Tongerlo (Westerlo)" zip="2260" labelnl="Tongerlo (Westerlo)" parent="2260_WESTERLO" submunicipality="true" />
     <city id="2430_VORST" label="Vorst (Laakdal)" zip="2430" labelnl="Vorst (Laakdal)" parent="2430_LAAKDAL" submunicipality="true" />
     <city id="2812_MUIZEN" label="Muizen (Mechelen)" zip="2812" labelnl="Muizen (Mechelen)" parent="2800_MECHELEN" submunicipality="true" />
