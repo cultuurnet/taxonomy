@@ -2366,17 +2366,17 @@
     <city id="3850_WIJER" label="Wijer (Nieuwerkerken)" zip="3850" labelnl="Wijer (Nieuwerkerken)" parent="3850_NIEUWERKERKEN" submunicipality="true" />
     <city id="3850_KOZEN" label="Kozen (Nieuwerkerken)" zip="3850" labelnl="Kozen (Nieuwerkerken)" parent="3850_NIEUWERKERKEN" submunicipality="true" />
     <city id="3850_BINDERVELD" label="Binderveld (Nieuwerkerken)" zip="3850" labelnl="Binderveld (Nieuwerkerken)" parent="3850_NIEUWERKERKEN" submunicipality="true" />
-    <city id="3840_VOORT" label="Voort (Borgloon)" zip="3840" labelnl="Voort (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_RIJKEL" label="Rijkel (Borgloon)" zip="3840" labelnl="Rijkel (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_KUTTEKOVEN" label="Kuttekoven (Borgloon)" zip="3840" labelnl="Kuttekoven (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_KERNIEL" label="Kerniel (Borgloon)" zip="3840" labelnl="Kerniel (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_HOEPERTINGEN" label="Hoepertingen (Borgloon)" zip="3840" labelnl="Hoepertingen (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_HENDRIEKEN" label="Hendrieken (Borgloon)" zip="3840" labelnl="Hendrieken (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_GROOT-LOON" label="Groot-Loon (Borgloon)" zip="3840" labelnl="Groot-Loon (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_GOTEM" label="Gotem (Borgloon)" zip="3840" labelnl="Gotem (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_GORS-OPLEEUW" label="Gors-Opleeuw (Borgloon)" zip="3840" labelnl="Gors-Opleeuw (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_BROEKOM" label="Broekom (Borgloon)" zip="3840" labelnl="Broekom (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_BORGLOON" label="Borgloon" zip="3840" labelnl="Borgloon" submunicipality="false" />
+    <city id="3840_VOORT" label="Voort (Tongeren-Borgloon)" zip="3840" labelnl="Voort (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_RIJKEL" label="Rijkel (Tongeren-Borgloon)" zip="3840" labelnl="Rijkel (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_KUTTEKOVEN" label="Kuttekoven (Tongeren-Borgloon)" zip="3840" labelnl="Kuttekoven (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_KERNIEL" label="Kerniel (Tongeren-Borgloon)" zip="3840" labelnl="Kerniel (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_HOEPERTINGEN" label="Hoepertingen (Tongeren-Borgloon)" zip="3840" labelnl="Hoepertingen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_HENDRIEKEN" label="Hendrieken (Tongeren-Borgloon)" zip="3840" labelnl="Hendrieken (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_GROOT-LOON" label="Groot-Loon (Tongeren-Borgloon)" zip="3840" labelnl="Groot-Loon (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_GOTEM" label="Gotem (Tongeren-Borgloon)" zip="3840" labelnl="Gotem (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_GORS-OPLEEUW" label="Gors-Opleeuw (Tongeren-Borgloon)" zip="3840" labelnl="Gors-Opleeuw (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_BROEKOM" label="Broekom (Tongeren-Borgloon)" zip="3840" labelnl="Broekom (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_BORGLOON" label="Borgloon (Tongeren-Borgloon)" zip="3840" labelnl="Borgloon (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
     <city id="3832_ULBEEK" label="Ulbeek (Wellen)" zip="3832" labelnl="Ulbeek (Wellen)" parent="3830_WELLEN" submunicipality="true" />
     <city id="3831_HERTEN" label="Herten (Wellen)" zip="3831" labelnl="Herten (Wellen)" parent="3830_WELLEN" submunicipality="true" />
     <city id="3830_WELLEN" label="Wellen" zip="3830" labelnl="Wellen" submunicipality="false" />
@@ -2433,18 +2433,19 @@
     <city id="3721_VLIERMAALROOT" label="Vliermaalroot (Hasselt)" zip="3721" labelnl="Vliermaalroot (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3720_KORTESSEM" label="Kortessem (Hasselt)" zip="3720" labelnl="Kortessem (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3717_HERSTAPPE" label="Herstappe" zip="3717" labelnl="Herstappe" submunicipality="false" />
-    <city id="3700_VREREN" label="Vreren (Tongeren)" zip="3700" labelnl="Vreren (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_TONGEREN" label="Tongeren" zip="3700" labelnl="Tongeren" submunicipality="false" />
-    <city id="3700_SLUIZEN" label="Sluizen (Tongeren)" zip="3700" labelnl="Sluizen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_RUTTEN" label="Rutten (Tongeren)" zip="3700" labelnl="Rutten (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_RIKSINGEN" label="Riksingen (Tongeren)" zip="3700" labelnl="Riksingen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_NEREM" label="Nerem (Tongeren)" zip="3700" labelnl="Nerem (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_NEERREPEN" label="Neerrepen (Tongeren)" zip="3700" labelnl="Neerrepen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_MAL" label="Mal (Tongeren)" zip="3700" labelnl="Mal (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_LAUW" label="Lauw (Tongeren)" zip="3700" labelnl="Lauw (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_KONINKSEM" label="Koninksem (Tongeren)" zip="3700" labelnl="Koninksem (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_HENIS" label="Henis (Tongeren)" zip="3700" labelnl="Henis (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_DIETS-HEUR" label="Diets-Heur (Tongeren)" zip="3700" labelnl="Diets-Heur (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
+    <city id="3700_VREREN" label="Vreren (Tongeren-Borgloon)" zip="3700" labelnl="Vreren (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_TONGEREN-BORGLOON" label="Tongeren-Borgloon" zip="3700" labelnl="Tongeren-Borgloon" submunicipality="false" />
+    <city id="3700_TONGEREN" label="Tongeren" zip="3700" labelnl="Tongeren" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_SLUIZEN" label="Sluizen (Tongeren-Borgloon)" zip="3700" labelnl="Sluizen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_RUTTEN" label="Rutten (Tongeren-Borgloon)" zip="3700" labelnl="Rutten (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_RIKSINGEN" label="Riksingen (Tongeren-Borgloon)" zip="3700" labelnl="Riksingen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_NEREM" label="Nerem (Tongeren-Borgloon)" zip="3700" labelnl="Nerem (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_NEERREPEN" label="Neerrepen (Tongeren-Borgloon)" zip="3700" labelnl="Neerrepen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_MAL" label="Mal (Tongeren-Borgloon)" zip="3700" labelnl="Mal (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_LAUW" label="Lauw (Tongeren-Borgloon)" zip="3700" labelnl="Lauw (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_KONINKSEM" label="Koninksem (Tongeren-Borgloon)" zip="3700" labelnl="Koninksem (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_HENIS" label="Henis (Tongeren-Borgloon)" zip="3700" labelnl="Henis (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_DIETS-HEUR" label="Diets-Heur (Tongeren-Borgloon)" zip="3700" labelnl="Diets-Heur (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
     <city id="3690_ZUTENDAAL" label="Zutendaal" zip="3690" labelnl="Zutendaal" submunicipality="false" />
     <city id="3680_OPOETEREN" label="Opoeteren (Maaseik)" zip="3680" labelnl="Opoeteren (Maaseik)" parent="3680_MAASEIK" submunicipality="true" />
     <city id="3680_NEEROETEREN" label="Neeroeteren (Maaseik)" zip="3680" labelnl="Neeroeteren (Maaseik)" parent="3680_MAASEIK" submunicipality="true" />
@@ -2673,7 +2674,7 @@
     <city id="1200_SINT-LAMBRECHTS-WOLUWE" label="Sint-Lambrechts-Woluwe (Brussel)" zip="1200" labelnl="Sint-Lambrechts-Woluwe (Brussel)" submunicipality="false" />
     <city id="1210_SINT-JOOST-TEN-NODE" label="Sint-Joost-Ten-Node (Brussel)" zip="1210" labelnl="Sint-Joost-Ten-Node (Brussel)" submunicipality="false" />
     <city id="2970_S_GRAVENWEZEL" label="'s Gravenwezel (Schilde)" zip="2970" labelnl="'s Gravenwezel (Schilde)" parent="2970_SCHILDE" submunicipality="true" />
-    <city id="3700_S_HERENELDEREN" label="'s Herenelderen (Tongeren)" zip="3700" labelnl="'s Herenelderen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
+    <city id="3700_S_HERENELDEREN" label="'s Herenelderen (Tongeren-Borgloon)" zip="3700" labelnl="'s Herenelderen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
     <city id="8200_BRUGGE_2" label="Brugge 2 (Brugge)" zip="8200" labelnl="Brugge 2 (Brugge)" parent="8000_BRUGGE" submunicipality="true" />
     <city id="1130_HAREN" label="Haren (Brussel)" zip="1130" labelnl="Haren (Brussel)" parent="1000_BRUSSEL" submunicipality="true" />
     <city id="1020_LAKEN" label="Laken (Brussel)" zip="1020" labelnl="Laken (Brussel)" parent="1000_BRUSSEL" submunicipality="true" />
@@ -2717,22 +2718,22 @@
     <city id="3390_TIELT" label="Tielt (Tielt-Winge)" zip="3390" labelnl="Tielt (Tielt-Winge)" parent="3390_TIELT-WINGE" submunicipality="true" />
     <city id="3550_HEUSDEN" label="Heusden (Heusden-Zolder)" zip="3550" labelnl="Heusden (Heusden-Zolder)" parent="3550_HEUSDEN-ZOLDER" submunicipality="true" />
     <city id="3560_MELDERT" label="Meldert (Lummen)" zip="3560" labelnl="Meldert (Lummen)" parent="3560_LUMMEN" submunicipality="true" />
-    <city id="3700_BERG" label="Berg (Tongeren)" zip="3700" labelnl="Berg (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_HAREN" label="Haren (Tongeren)" zip="3700" labelnl="Haren (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_KOLMONT" label="Kolmont (Tongeren)" zip="3700" labelnl="Kolmont (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_OVERREPEN" label="Overrepen (Tongeren)" zip="3700" labelnl="Overrepen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_PIRINGEN" label="Piringen (Tongeren)" zip="3700" labelnl="Piringen (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
-    <city id="3700_WIDOOIE" label="Widooie (Tongeren)" zip="3700" labelnl="Widooie (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
+    <city id="3700_BERG" label="Berg (Tongeren-Borgloon)" zip="3700" labelnl="Berg (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_HAREN" label="Haren (Tongeren-Borgloon)" zip="3700" labelnl="Haren (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_KOLMONT" label="Kolmont (Tongeren-Borgloon)" zip="3700" labelnl="Kolmont (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_OVERREPEN" label="Overrepen (Tongeren-Borgloon)" zip="3700" labelnl="Overrepen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_PIRINGEN" label="Piringen (Tongeren-Borgloon)" zip="3700" labelnl="Piringen (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3700_WIDOOIE" label="Widooie (Tongeren-Borgloon)" zip="3700" labelnl="Widooie (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
     <city id="3790_MOELINGEN" label="Moelingen (Voeren)" zip="3790" labelnl="Moelingen (Voeren)" parent="3790_VOEREN" submunicipality="true" />
     <city id="3790_SINT-MARTENS-VOEREN" label="Sint-Martens-Voeren (Voeren)" zip="3790" labelnl="Sint-Martens-Voeren (Voeren)" parent="3790_VOEREN" submunicipality="true" />
     <city id="3790_VOEREN" label="Voeren" zip="3790" labelnl="Voeren" submunicipality="false" />
     <city id="3792_SINT-PIETERS-VOEREN" label="Sint-Pieters-Voeren (Voeren)" zip="3792" labelnl="Sint-Pieters-Voeren (Voeren)" parent="3790_VOEREN" submunicipality="true" />
     <city id="3798_S_GRAVENVOEREN" label="'s Gravenvoeren (Voeren)" zip="3798" labelnl="'s Gravenvoeren (Voeren)" parent="3790_VOEREN" submunicipality="true" />
     <city id="3800_AALST" label="Aalst (Sint-Truiden)" zip="3800" labelnl="Aalst (Sint-Truiden)" parent="3800_SINT-TRUIDEN" submunicipality="true" />
-    <city id="3840_BOMMERSHOVEN" label="Bommershoven (Borgloon)" zip="3840" labelnl="Bommershoven (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_HAREN" label="Haren (Borgloon)" zip="3840" labelnl="Haren (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_JESSEREN" label="Jesseren (Borgloon)" zip="3840" labelnl="Jesseren (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
-    <city id="3840_KOLMONT" label="Kolmont (Borgloon)" zip="3840" labelnl="Kolmont (Borgloon)" parent="3840_BORGLOON" submunicipality="true" />
+    <city id="3840_BOMMERSHOVEN" label="Bommershoven (Tongeren-Borgloon)" zip="3840" labelnl="Bommershoven (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_HAREN" label="Haren (Tongeren-Borgloon)" zip="3840" labelnl="Haren (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_JESSEREN" label="Jesseren (Tongeren-Borgloon)" zip="3840" labelnl="Jesseren (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
+    <city id="3840_KOLMONT" label="Kolmont (Tongeren-Borgloon)" zip="3840" labelnl="Kolmont (Tongeren-Borgloon)" parent="3700_TONGEREN-BORGLOON" submunicipality="true" />
     <city id="3850_NIEUWERKERKEN" label="Nieuwerkerken" zip="3850" labelnl="Nieuwerkerken" submunicipality="false" />
     <city id="3891_MUIZEN" label="Muizen (Gingelom)" zip="3891" labelnl="Muizen (Gingelom)" parent="3890_GINGELOM" submunicipality="true" />
     <city id="3960_TONGERLO" label="Tongerlo (Bree)" zip="3960" labelnl="Tongerlo (Bree)" parent="3960_BREE" submunicipality="true" />
