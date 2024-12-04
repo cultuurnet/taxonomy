@@ -2263,7 +2263,7 @@
     <city id="9200_APPELS" label="Appels (Dendermonde)" zip="9200" labelnl="Appels (Dendermonde)" parent="9200_DENDERMONDE" submunicipality="true" />
     <city id="9190_STEKENE" label="Stekene" zip="9190" labelnl="Stekene" submunicipality="false" />
     <city id="9190_KEMZEKE" label="Kemzeke (Stekene)" zip="9190" labelnl="Kemzeke (Stekene)" parent="9190_STEKENE" submunicipality="true" />
-    <city id="9185_WACHTEBEKE" label="Wachtebeke" zip="9185" labelnl="Wachtebeke" submunicipality="false" />
+    <city id="9185_WACHTEBEKE" label="Wachtebeke (Lochristi)" zip="9185" labelnl="Wachtebeke (Lochristi)" parent="9080_LOCHRISTI" submunicipality="true" />
     <city id="9180_MOERBEKE-WAAS" label="Moerbeke-Waas" zip="9180" labelnl="Moerbeke-Waas" submunicipality="false" />
     <city id="9170_SINT-PAUWELS" label="Sint-Pauwels (Sint-Gillis-Waas)" zip="9170" labelnl="Sint-Pauwels (Sint-Gillis-Waas)" parent="9170_SINT-GILLIS-WAAS" submunicipality="true" />
     <city id="9170_SINT-GILLIS-WAAS" label="Sint-Gillis-Waas" zip="9170" labelnl="Sint-Gillis-Waas" submunicipality="false" />
