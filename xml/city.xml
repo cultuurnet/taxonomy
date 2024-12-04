@@ -2074,7 +2074,7 @@
     <city id="9850_MERENDREE" label="Merendree (Deinze)" zip="9850" labelnl="Merendree (Deinze)" parent="9800_DEINZE" submunicipality="true" />
     <city id="9850_LANDEGEM" label="Landegem (Deinze)" zip="9850" labelnl="Landegem (Deinze)" parent="9800_DEINZE" submunicipality="true" />
     <city id="9850_HANSBEKE" label="Hansbeke (Deinze)" zip="9850" labelnl="Hansbeke (Deinze)" parent="9800_DEINZE" submunicipality="true" />
-    <city id="9840_ZEVERGEM" label="Zevergem (De Pinte)" zip="9840" labelnl="Zevergem (De Pinte)" parent="9840_DE_PINTE" submunicipality="true" />
+    <city id="9840_ZEVERGEM" label="Zevergem (Nazareth-De Pinte)" zip="9840" labelnl="Zevergem (Nazareth-De Pinte)" parent="9810_NAZARETH-DE_PINTE" submunicipality="true" />
     <city id="9831_DEURLE" label="Deurle (Sint-Martens-Latem)" zip="9831" labelnl="Deurle (Sint-Martens-Latem)" parent="9830_SINT-MARTENS-LATEM" submunicipality="true" />
     <city id="9830_SINT-MARTENS-LATEM" label="Sint-Martens-Latem" zip="9830" labelnl="Sint-Martens-Latem" submunicipality="false" />
     <city id="9820_SCHELDERODE" label="Schelderode (Merelbeke-Melle)" zip="9820" labelnl="Schelderode (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
@@ -2084,8 +2084,9 @@
     <city id="9820_MELSEN" label="Melsen (Merelbeke-Melle)" zip="9820" labelnl="Melsen (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
     <city id="9820_LEMBERGE" label="Lemberge (Merelbeke-Melle)" zip="9820" labelnl="Lemberge (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
     <city id="9820_BOTTELARE" label="Bottelare (Merelbeke-Melle)" zip="9820" labelnl="Bottelare (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
-    <city id="9810_NAZARETH" label="Nazareth" zip="9810" labelnl="Nazareth" submunicipality="false" />
-    <city id="9810_EKE" label="Eke (Nazareth)" zip="9810" labelnl="Eke (Nazareth)" parent="9810_NAZARETH" submunicipality="true" />
+    <city id="9810_NAZARETH-DE_PINTE" label="Nazareth-De Pinte" zip="9810" labelnl="Nazareth" submunicipality="false" />
+    <city id="9810_NAZARETH" label="Nazareth (Nazareth-De Pinte)" zip="9810" labelnl="Nazareth (Nazareth-De Pinte)" parent="9810_NAZARETH-DE_PINTE" submunicipality="trye" />
+    <city id="9810_EKE" label="Eke (Nazareth-De Pinte)" zip="9810" labelnl="Eke (Nazareth-De Pinte)" parent="9810_NAZARETH-DE_PINTE" submunicipality="true" />
     <city id="9800_ZEVEREN" label="Zeveren (Deinze)" zip="9800" labelnl="Zeveren (Deinze)" parent="9800_DEINZE" submunicipality="true" />
     <city id="9800_WONTERGEM" label="Wontergem (Deinze)" zip="9800" labelnl="Wontergem (Deinze)" parent="9800_DEINZE" submunicipality="true" />
     <city id="9800_VINKT" label="Vinkt (Deinze)" zip="9800" labelnl="Vinkt (Deinze)" parent="9800_DEINZE" submunicipality="true" />
@@ -2768,7 +2769,7 @@
     <city id="9620_OOMBERGEN" label="Oombergen (Zottegem)" zip="9620" labelnl="Oombergen (Zottegem)" parent="9620_ZOTTEGEM" submunicipality="true" />
     <city id="9690_BERCHEM" label="Berchem (Kluisbergen)" zip="9690" labelnl="Berchem (Kluisbergen)" parent="9690_KLUISBERGEN" submunicipality="true" />
     <city id="9790_OOIKE" label="Ooike (Wortegem-Petegem)" zip="9790" labelnl="Ooike (Wortegem-Petegem)" parent="9790_WORTEGEM-PETEGEM" submunicipality="true" />
-    <city id="9840_DE_PINTE" label="De Pinte" zip="9840" labelnl="De Pinte" submunicipality="false" />
+    <city id="9840_DE_PINTE" label="De Pinte (Nazareth-De Pinte)" zip="9840" labelnl="De Pinte (Nazareth-De Pinte)" parent="9810_NAZARETH-DE_PINTE" submunicipality="true" />
     <city id="9870_MACHELEN" label="Machelen (Zulte)" zip="9870" labelnl="Machelen (Zulte)" parent="9870_ZULTE" submunicipality="true" />
     <city id="1320_L-ECLUSE" label="l'Ecluse" zip="1320" labelnl="l'Ecluse" submunicipality="false" />
     <city id="1420_BRAINE-L-ALLEUD" label="Braine l'Alleud" zip="1420" labelnl="Braine l'Alleud" submunicipality="false" />
