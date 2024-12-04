@@ -583,7 +583,7 @@
     <city id="6690_VIELSALM" label="Vielsalm" zip="6690" labelnl="Vielsalm" submunicipality="false" />
     <city id="6690_BIHAIN" label="Bihain" zip="6690" labelnl="Bihain" submunicipality="false" />
     <city id="6688_LONGCHAMPS-LUXEMBOURG" label="Longchamps Luxembourg" zip="6688" labelnl="Longchamps Luxembourg" submunicipality="false" />
-    <city id="6687_BERTOGNE" label="Bertogne" zip="6687" labelnl="Bertogne" submunicipality="false" />
+    <city id="6687_BERTOGNE" label="Bertogne (Bastogne)" zip="6687" labelnl="Bertogne (Bastogne)" parent="6600_BASTOGNE" submunicipality="true" />
     <city id="6686_FLAMIERGE" label="Flamierge" zip="6686" labelnl="Flamierge" submunicipality="false" />
     <city id="6681_LAVACHERIE" label="Lavacherie" zip="6681" labelnl="Lavacherie" submunicipality="false" />
     <city id="6680_TILLET" label="Tillet" zip="6680" labelnl="Tillet" submunicipality="false" />
