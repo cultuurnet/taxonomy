@@ -1632,7 +1632,7 @@
     <city id="8780_OOSTROZEBEKE" label="Oostrozebeke" zip="8780" labelnl="Oostrozebeke" submunicipality="false" />
     <city id="8770_INGELMUNSTER" label="Ingelmunster" zip="8770" labelnl="Ingelmunster" submunicipality="false" />
     <city id="8760_MEULEBEKE" label="Meulebeke (Tielt)" zip="8760" labelnl="Meulebeke (Tielt)" parent="8700_TIELT" submunicipality="true" />
-    <city id="8755_RUISELEDE" label="Ruiselede" zip="8755" labelnl="Ruiselede" submunicipality="false" />
+    <city id="8755_RUISELEDE" label="Ruiselede (Wingene)" zip="8755" labelnl="Ruiselede (Wingene)" parent="8750_WINGENE" submunicipality="true" />
     <city id="8750_ZWEVEZELE" label="Zwevezele (Wingene)" zip="8750" labelnl="Zwevezele (Wingene)" parent="8750_WINGENE" submunicipality="true" />
     <city id="8750_WINGENE" label="Wingene" zip="8750" labelnl="Wingene" submunicipality="false" />
     <city id="8740_PITTEM" label="Pittem" zip="8740" labelnl="Pittem" submunicipality="false" />
