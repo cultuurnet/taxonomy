@@ -2427,7 +2427,7 @@
     <city id="3723_GUIGOVEN" label="Guigoven (Hasselt)" zip="3723" labelnl="Guigoven (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3722_WINTERSHOVEN" label="Wintershoven (Hasselt)" zip="3722" labelnl="Wintershoven (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3721_VLIERMAALROOT" label="Vliermaalroot (Hasselt)" zip="3721" labelnl="Vliermaalroot (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
-    <city id="3720_KORTESSEM" label="Kortessem" zip="3720" labelnl="Kortessem" parent="3500_HASSELT" submunicipality="true" />
+    <city id="3720_KORTESSEM" label="Kortessem (Hasselt)" zip="3720" labelnl="Kortessem (Hasselt)" parent="3500_HASSELT" submunicipality="true" />
     <city id="3717_HERSTAPPE" label="Herstappe" zip="3717" labelnl="Herstappe" submunicipality="false" />
     <city id="3700_VREREN" label="Vreren (Tongeren)" zip="3700" labelnl="Vreren (Tongeren)" parent="3700_TONGEREN" submunicipality="true" />
     <city id="3700_TONGEREN" label="Tongeren" zip="3700" labelnl="Tongeren" submunicipality="false" />
