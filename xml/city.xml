@@ -2077,12 +2077,13 @@
     <city id="9840_ZEVERGEM" label="Zevergem (De Pinte)" zip="9840" labelnl="Zevergem (De Pinte)" parent="9840_DE_PINTE" submunicipality="true" />
     <city id="9831_DEURLE" label="Deurle (Sint-Martens-Latem)" zip="9831" labelnl="Deurle (Sint-Martens-Latem)" parent="9830_SINT-MARTENS-LATEM" submunicipality="true" />
     <city id="9830_SINT-MARTENS-LATEM" label="Sint-Martens-Latem" zip="9830" labelnl="Sint-Martens-Latem" submunicipality="false" />
-    <city id="9820_SCHELDERODE" label="Schelderode (Merelbeke)" zip="9820" labelnl="Schelderode (Merelbeke)" parent="9820_MERELBEKE" submunicipality="true" />
-    <city id="9820_MUNTE" label="Munte (Merelbeke)" zip="9820" labelnl="Munte (Merelbeke)" parent="9820_MERELBEKE" submunicipality="true" />
-    <city id="9820_MERELBEKE" label="Merelbeke" zip="9820" labelnl="Merelbeke" submunicipality="false" />
-    <city id="9820_MELSEN" label="Melsen (Merelbeke)" zip="9820" labelnl="Melsen (Merelbeke)" parent="9820_MERELBEKE" submunicipality="true" />
-    <city id="9820_LEMBERGE" label="Lemberge (Merelbeke)" zip="9820" labelnl="Lemberge (Merelbeke)" parent="9820_MERELBEKE" submunicipality="true" />
-    <city id="9820_BOTTELARE" label="Bottelare (Merelbeke)" zip="9820" labelnl="Bottelare (Merelbeke)" parent="9820_MERELBEKE" submunicipality="true" />
+    <city id="9820_SCHELDERODE" label="Schelderode (Merelbeke-Melle)" zip="9820" labelnl="Schelderode (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9820_MUNTE" label="Munte (Merelbeke-Melle)" zip="9820" labelnl="Munte (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9820_MERELBEKE-MELLE" label="Merelbeke-Melle" zip="9820" labelnl="Merelbeke" submunicipality="false" />
+    <city id="9820_MERELBEKE" label="Merelbeke (Merelbeke-Melle)" zip="9820" labelnl="Merelbeke (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9820_MELSEN" label="Melsen (Merelbeke-Melle)" zip="9820" labelnl="Melsen (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9820_LEMBERGE" label="Lemberge (Merelbeke-Melle)" zip="9820" labelnl="Lemberge (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9820_BOTTELARE" label="Bottelare (Merelbeke-Melle)" zip="9820" labelnl="Bottelare (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
     <city id="9810_NAZARETH" label="Nazareth" zip="9810" labelnl="Nazareth" submunicipality="false" />
     <city id="9810_EKE" label="Eke (Nazareth)" zip="9810" labelnl="Eke (Nazareth)" parent="9810_NAZARETH" submunicipality="true" />
     <city id="9800_ZEVEREN" label="Zeveren (Deinze)" zip="9800" labelnl="Zeveren (Deinze)" parent="9800_DEINZE" submunicipality="true" />
@@ -2289,8 +2290,8 @@
     <city id="9111_BELSELE" label="Belsele (Sint-Niklaas)" zip="9111" labelnl="Belsele (Sint-Niklaas)" parent="9100_SINT-NIKLAAS" submunicipality="true" />
     <city id="9100_SINT-NIKLAAS" label="Sint-Niklaas" zip="9100" labelnl="Sint-Niklaas" submunicipality="false" />
     <city id="9100_NIEUWKERKEN-WAAS" label="Nieuwkerken-Waas (Sint-Niklaas)" zip="9100" labelnl="Nieuwkerken-Waas (Sint-Niklaas)" parent="9100_SINT-NIKLAAS" submunicipality="true" />
-    <city id="9090_MELLE" label="Melle" zip="9090" labelnl="Melle" submunicipality="false" />
-    <city id="9090_GONTRODE" label="Gontrode (Melle)" zip="9090" labelnl="Gontrode (Melle)" parent="9090_MELLE" submunicipality="true" />
+    <city id="9090_MELLE" label="Melle (Merelbeke-Melle)" zip="9090" labelnl="Melle (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
+    <city id="9090_GONTRODE" label="Gontrode (Merelbeke-Melle)" zip="9090" labelnl="Gontrode (Merelbeke-Melle)" parent="9820_MERELBEKE-MELLE" submunicipality="true" />
     <city id="9080_ZEVENEKEN" label="Zeveneken (Lochristi)" zip="9080" labelnl="Zeveneken (Lochristi)" parent="9080_LOCHRISTI" submunicipality="true" />
     <city id="9080_ZAFFELARE" label="Zaffelare (Lochristi)" zip="9080" labelnl="Zaffelare (Lochristi)" parent="9080_LOCHRISTI" submunicipality="true" />
     <city id="9080_LOCHRISTI" label="Lochristi" zip="9080" labelnl="Lochristi" submunicipality="false" />
