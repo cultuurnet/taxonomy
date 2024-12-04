@@ -2264,7 +2264,7 @@
     <city id="9190_STEKENE" label="Stekene" zip="9190" labelnl="Stekene" submunicipality="false" />
     <city id="9190_KEMZEKE" label="Kemzeke (Stekene)" zip="9190" labelnl="Kemzeke (Stekene)" parent="9190_STEKENE" submunicipality="true" />
     <city id="9185_WACHTEBEKE" label="Wachtebeke (Lochristi)" zip="9185" labelnl="Wachtebeke (Lochristi)" parent="9080_LOCHRISTI" submunicipality="true" />
-    <city id="9180_MOERBEKE-WAAS" label="Moerbeke-Waas" zip="9180" labelnl="Moerbeke-Waas" submunicipality="false" />
+    <city id="9180_MOERBEKE-WAAS" label="Moerbeke-Waas (Lokeren)" zip="9180" labelnl="Moerbeke-Waas (Lokeren)" parent="9160_LOKEREN" submunicipality="true" />
     <city id="9170_SINT-PAUWELS" label="Sint-Pauwels (Sint-Gillis-Waas)" zip="9170" labelnl="Sint-Pauwels (Sint-Gillis-Waas)" parent="9170_SINT-GILLIS-WAAS" submunicipality="true" />
     <city id="9170_SINT-GILLIS-WAAS" label="Sint-Gillis-Waas" zip="9170" labelnl="Sint-Gillis-Waas" submunicipality="false" />
     <city id="9170_MEERDONK" label="Meerdonk (Sint-Gillis-Waas)" zip="9170" labelnl="Meerdonk (Sint-Gillis-Waas)" parent="9170_SINT-GILLIS-WAAS" submunicipality="true" />
