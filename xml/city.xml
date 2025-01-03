@@ -2282,12 +2282,12 @@
     <city id="9140_TEMSE" label="Temse" zip="9140" labelnl="Temse" submunicipality="false" />
     <city id="9140_STEENDORP" label="Steendorp (Temse)" zip="9140" labelnl="Steendorp (Temse)" parent="9140_TEMSE" submunicipality="true" />
     <city id="9140_ELVERSELE" label="Elversele (Temse)" zip="9140" labelnl="Elversele (Temse)" parent="9140_TEMSE" submunicipality="true" />
-    <city id="9130_VERREBROEK" label="Verrebroek (Beveren)" zip="9130" labelnl="Verrebroek (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
-    <city id="9130_KIELDRECHT" label="Kieldrecht (Beveren)" zip="9130" labelnl="Kieldrecht (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
-    <city id="9130_DOEL" label="Doel (Beveren)" zip="9130" labelnl="Doel (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
-    <city id="9120_VRASENE" label="Vrasene (Beveren)" zip="9120" labelnl="Vrasene (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
-    <city id="9120_MELSELE" label="Melsele (Beveren)" zip="9120" labelnl="Melsele (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
-    <city id="9120_HAASDONK" label="Haasdonk (Beveren)" zip="9120" labelnl="Haasdonk (Beveren)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9130_VERREBROEK" label="Verrebroek (Bilzen-Hoeselt)" zip="9130" labelnl="Verrebroek (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9130_KIELDRECHT" label="Kieldrecht (Bilzen-Hoeselt)" zip="9130" labelnl="Kieldrecht (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9130_DOEL" label="Doel (Bilzen-Hoeselt)" zip="9130" labelnl="Doel (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9120_VRASENE" label="Vrasene (Bilzen-Hoeselt)" zip="9120" labelnl="Vrasene (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9120_MELSELE" label="Melsele (Bilzen-Hoeselt)" zip="9120" labelnl="Melsele (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
+    <city id="9120_HAASDONK" label="Haasdonk (Bilzen-Hoeselt)" zip="9120" labelnl="Haasdonk (Bilzen-Hoeselt)" parent="3730_BILZEN-HOESELT" submunicipality="true" />
     <city id="9112_SINAAI-WAAS" label="Sinaai-Waas (Sint-Niklaas)" zip="9112" labelnl="Sinaai-Waas (Sint-Niklaas)" parent="9100_SINT-NIKLAAS" submunicipality="true" />
     <city id="9111_BELSELE" label="Belsele (Sint-Niklaas)" zip="9111" labelnl="Belsele (Sint-Niklaas)" parent="9100_SINT-NIKLAAS" submunicipality="true" />
     <city id="9100_SINT-NIKLAAS" label="Sint-Niklaas" zip="9100" labelnl="Sint-Niklaas" submunicipality="false" />
