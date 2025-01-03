@@ -2275,7 +2275,8 @@
     <city id="9160_EKSAARDE" label="Eksaarde (Lokeren)" zip="9160" labelnl="Eksaarde (Lokeren)" parent="9160_LOKEREN" submunicipality="true" />
     <city id="9160_DAKNAM" label="Daknam (Lokeren)" zip="9160" labelnl="Daknam (Lokeren)" parent="9160_LOKEREN" submunicipality="true" />
     <city id="9150_RUPELMONDE" label="Rupelmonde (Beveren-Kruibeke-Zwijndrecht)" zip="9150" labelnl="Rupelmonde (Beveren-Kruibeke-Zwijndrecht)" parent="9120_BEVEREN-KRUIBEKE-ZWIJNDRECHT" submunicipality="true" />
-    <city id="9150_KRUIBEKE" label="Kruibeke" zip="9150" labelnl="Kruibeke" parent submunicipality="true" />
+    <city id="9150_KRUIBEKE" label="Kruibeke" zip="9150" labelnl="Kruibeke" parent="9120_BEVEREN-KRUIBEKE-ZWIJNDRECHT" submunicipality="true" />
+
     <city id="9150_BAZEL" label="Bazel (Beveren-Kruibeke-Zwijndrecht)" zip="9150" labelnl="Bazel (Beveren-Kruibeke-Zwijndrecht)" parent="9120_BEVEREN-KRUIBEKE-ZWIJNDRECHT" submunicipality="true" />
     <city id="9140_TIELRODE" label="Tielrode (Temse)" zip="9140" labelnl="Tielrode (Temse)" parent="9140_TEMSE" submunicipality="true" />
     <city id="9140_TEMSE" label="Temse" zip="9140" labelnl="Temse" submunicipality="false" />
