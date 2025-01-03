@@ -2318,7 +2318,7 @@
     <city id="3990_PEER" label="Peer" zip="3990" labelnl="Peer" submunicipality="false" />
     <city id="3990_KLEINE-BROGEL" label="Kleine-Brogel (Peer)" zip="3990" labelnl="Kleine-Brogel (Peer)" parent="3990_PEER" submunicipality="true" />
     <city id="3990_GROTE-BROGEL" label="Grote-Brogel (Peer)" zip="3990" labelnl="Grote-Brogel (Peer)" parent="3990_PEER" submunicipality="true" />
-    <city id="3980_TESSENDERLO" label="Tessenderlo" zip="3980" labelnl="Tessenderlo" submunicipality="false" />
+    <city id="3980_TESSENDERLO" label="Tessenderlo (Tessenderlo-Ham)" zip="3980" labelnl="Tessenderlo (Tessenderlo-Ham)" parent="3945_TESSENDERLO-HAM" submunicipality="true" />
     <city id="3971_HEPPEN" label="Heppen (Leopoldsburg)" zip="3971" labelnl="Heppen (Leopoldsburg)" parent="3970_LEOPOLDSBURG" submunicipality="true" />
     <city id="3970_LEOPOLDSBURG" label="Leopoldsburg" zip="3970" labelnl="Leopoldsburg" submunicipality="false" />
     <city id="3960_OPITTER" label="Opitter (Bree)" zip="3960" labelnl="Opitter (Bree)" parent="3960_BREE" submunicipality="true" />
@@ -2328,9 +2328,10 @@
     <city id="3950_REPPEL" label="Reppel (Bocholt)" zip="3950" labelnl="Reppel (Bocholt)" parent="3950_BOCHOLT" submunicipality="true" />
     <city id="3950_KAULILLE" label="Kaulille (Bocholt)" zip="3950" labelnl="Kaulille (Bocholt)" parent="3950_BOCHOLT" submunicipality="true" />
     <city id="3950_BOCHOLT" label="Bocholt" zip="3950" labelnl="Bocholt" submunicipality="false" />
-    <city id="3945_OOSTHAM" label="Oostham (Ham)" zip="3945" labelnl="Oostham (Ham)" parent="3945_HAM" submunicipality="true" />
-    <city id="3945_KWAADMECHELEN" label="Kwaadmechelen (Ham)" zip="3945" labelnl="Kwaadmechelen (Ham)" parent="3945_HAM" submunicipality="true" />
-    <city id="3945_HAM" label="Ham" zip="3945" labelnl="Ham" submunicipality="false" />
+    <city id="3945_OOSTHAM" label="Oostham (Tessenderlo-Ham)" zip="3945" labelnl="Oostham (Tessenderlo-Ham)" parent="3945_TESSENDERLO-HAM" submunicipality="true" />
+    <city id="3945_KWAADMECHELEN" label="Kwaadmechelen (Tessenderlo-Ham)" zip="3945" labelnl="Kwaadmechelen (Tessenderlo-Ham)" parent="3945_TESSENDERLO-HAM" submunicipality="true" />
+    <city id="3945_TESSENDERLO-HAM" label="Tessenderlo-Ham" zip="3945" labelnl="Tessenderlo-Ham" submunicipality="false" />
+    <city id="3945_HAM" label="Ham (Tessenderlo-Ham)" zip="3945" labelnl="Ham (Tessenderlo-Ham)" submunicipality="true" />
     <city id="3941_EKSEL" label="Eksel (Hechtel-Eksel)" zip="3941" labelnl="Eksel (Hechtel-Eksel)" parent="3940_HECHTEL-EKSEL" submunicipality="true" />
     <city id="3940_HECHTEL-EKSEL" label="Hechtel-Eksel" zip="3940" labelnl="Hechtel-Eksel" submunicipality="false" />
     <city id="3940_HECHTEL" label="Hechtel" zip="3940" labelnl="Hechtel" submunicipality="false" />
