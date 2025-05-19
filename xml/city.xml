@@ -1757,7 +1757,7 @@
     <city id="8450_BREDENE" label="Bredene" zip="8450" labelnl="Bredene" submunicipality="false" />
     <city id="8434_WESTENDE" label="Westende (Middelkerke)" zip="8434" labelnl="Westende (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
     <city id="8434_LOMBARDSIJDE" label="Lombardsijde (Middelkerke)" zip="8434" labelnl="Lombardsijde (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
-    <city id="8433_SPERMALIE" label="Spermalie" zip="8433" labelnl="Spermalie" submunicipality="false" />
+    <city id="8433_SPERMALIE" label="Spermalie" zip="8433" labelnl="Spermalie" parent="8430_MIDDELKERKE" submunicipality="true" />
     <city id="8433_SLIJPE" label="Slijpe (Middelkerke)" zip="8433" labelnl="Slijpe (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
     <city id="8433_SCHORE" label="Schore (Middelkerke)" zip="8433" labelnl="Schore (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
     <city id="8433_MANNEKENSVERE" label="Mannekensvere (Middelkerke)" zip="8433" labelnl="Mannekensvere (Middelkerke)" parent="8430_MIDDELKERKE" submunicipality="true" />
