@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import json
-from nis import cat
 from xml import dom
 import xml.etree.ElementTree as ET
 
