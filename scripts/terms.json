@@ -4832,6 +4832,45 @@
             "scope": [
                 "places"
             ]
+        },
+        {
+            "id": "K7mPx3nQrT9bWfH2zL5cYv",
+            "domain": "eventtype",
+            "name": {
+                "nl": "Kinderopvang",
+                "fr": "Garderie",
+                "de": "Au\u00dferschulische Betreuung",
+                "en": "Childcare"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "8aRjN4dGsXuE6tBkM1pVwQ",
+            "domain": "eventtype",
+            "name": {
+                "nl": "Activiteit met de jeugdbeweging",
+                "fr": "Activit\u00e9 des mouvements de jeunesse",
+                "de": "Aktivit\u00e4t mit einem Jugendverband",
+                "en": "Activity with a youth organisation"
+            },
+            "scope": [
+                "events"
+            ]
+        },
+        {
+            "id": "hZ5fCyL9nKqW3xDvTrJ2gP",
+            "domain": "eventtype",
+            "name": {
+                "nl": "Speelplein",
+                "fr": "Plaine de jeu",
+                "de": "Spielplatzaktion",
+                "en": "Holiday playground programme"
+            },
+            "scope": [
+                "events"
+            ]
         }
     ]
 }
