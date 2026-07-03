@@ -44,7 +44,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Folk en wereldmuziek",
-                        "fr": "Musique folklorique et mondiale",
+                        "fr": "Musique folklorique et du monde",
                         "de": "Folk und World",
                         "en": "Folk and world music"
                     },
@@ -163,7 +163,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Stijl en salondansen",
-                        "fr": "Danse de salon et styl\u00e9e",
+                        "fr": "Danse de soci\u00e9t\u00e9",
                         "de": "Stil-und Gesellschaftstanz",
                         "en": "Ballroom dancing"
                     },
@@ -176,7 +176,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Volksdans en werelddans",
-                        "fr": "Danse folklorique et mondiale",
+                        "fr": "Danse folklorique et du monde",
                         "de": "Folk-und World Dance",
                         "en": "Folk dance"
                     },
@@ -243,7 +243,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Folk en wereldmuziek",
-                        "fr": "Musique folklorique et mondiale",
+                        "fr": "Musique folklorique et du monde",
                         "de": "Folk und World",
                         "en": "Folk and world music"
                     },
@@ -256,7 +256,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Humor en comedy",
-                        "fr": "L'humour et la com\u00e9die",
+                        "fr": "Humour et com\u00e9die",
                         "de": "Humor und comedy",
                         "en": "Humor and comedy"
                     },
@@ -308,7 +308,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -360,7 +360,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -492,7 +492,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Griezelfilm of horror",
-                        "fr": "Films d'\u00e9pouvantes ou orreurs",
+                        "fr": "Films d'horreur",
                         "de": "Horror",
                         "en": "Horror"
                     },
@@ -663,7 +663,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -728,7 +728,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -754,7 +754,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Zingeving, filosofie en religie",
-                        "fr": "Sense de la vie, philosophie et religion",
+                        "fr": "Sens de la vie, philosophie et religion",
                         "de": "Philosophie und Religion",
                         "en": "Philosophy and religion"
                     },
@@ -808,7 +808,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Humor en comedy",
-                        "fr": "L'humour et la com\u00e9die",
+                        "fr": "Humour et com\u00e9die",
                         "de": "Humor und comedy",
                         "en": "Humor and comedy"
                     },
@@ -821,7 +821,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Mime en bewegingstheater",
-                        "fr": "Mime et the\u00e9\u00e2tre de mouvements",
+                        "fr": "Mime et th\u00e9\u00e2tre de mouvements",
                         "de": "Mime und Bewegungstheater",
                         "en": "Mime "
                     },
@@ -875,7 +875,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Sportwedstrijd bekijken",
-                "fr": "Assister \u00e0 une comp\u00e9tition sportive",
+                "fr": "Regarder un \u00e9v\u00e9nement sportif",
                 "de": "Sport Antzeigen",
                 "en": "Sports Viewing"
             },
@@ -901,7 +901,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Bal en racketsport",
-                        "fr": "Sports au ballons et raquettes",
+                        "fr": "Sports de ballon ou de raquette",
                         "de": "Ball und Schl\u00e4ger",
                         "en": "Ball and racket sports"
                     },
@@ -927,7 +927,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Lucht en motorsport",
-                        "fr": "Sports aero et moteurs",
+                        "fr": "Sports a\u00e9ro et moteur",
                         "de": "Luft-und Motorsport",
                         "en": "Air and motorsports"
                     },
@@ -994,7 +994,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Markt, braderie of kermis",
-                "fr": "March\u00e9, foire ou f\u00eate foraine",
+                "fr": "March\u00e9, brocante ou kermesse",
                 "de": "Markt oder Messe",
                 "en": "Market, fair or funfair"
             },
@@ -1059,7 +1059,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -1098,7 +1098,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -1217,7 +1217,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -1243,7 +1243,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -1323,7 +1323,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -1362,7 +1362,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -1481,7 +1481,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Decoratieve kunst",
-                        "fr": "Arts d\u00e9coratives",
+                        "fr": "Arts d\u00e9coratifs",
                         "de": "Angewandte Kunst",
                         "en": "Decorative arts"
                     },
@@ -1546,7 +1546,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Grafiek",
-                        "fr": "Art grafique",
+                        "fr": "Arts graphiques",
                         "de": "Grafik",
                         "en": "Graphics"
                     },
@@ -1559,7 +1559,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Installatiekunst",
-                        "fr": "Art d'installation",
+                        "fr": "Installation",
                         "de": "Installation Art",
                         "en": "Installation art"
                     },
@@ -1572,7 +1572,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -1624,7 +1624,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -1665,7 +1665,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Begeleide uitstap of rondleiding",
-                "fr": "Tour ou excursion guid\u00e9e",
+                "fr": "Visite ou excursion guid\u00e9ee",
                 "de": "Gef\u00fchrte Wanderung oder Tour",
                 "en": "Guided tour"
             },
@@ -1769,7 +1769,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -1795,7 +1795,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Zingeving, filosofie en religie",
-                        "fr": "Sense de la vie, philosophie et religion",
+                        "fr": "Sens de la vie, philosophie et religion",
                         "de": "Philosophie und Religion",
                         "en": "Philosophy and religion"
                     },
@@ -1849,7 +1849,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Stijl en salondansen",
-                        "fr": "Danse de salon et styl\u00e9e",
+                        "fr": "Danse de soci\u00e9t\u00e9",
                         "de": "Stil-und Gesellschaftstanz",
                         "en": "Ballroom dancing"
                     },
@@ -1862,7 +1862,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Volksdans en werelddans",
-                        "fr": "Danse folklorique et mondiale",
+                        "fr": "Danse folklorique et du monde",
                         "de": "Folk-und World Dance",
                         "en": "Folk dance"
                     },
@@ -1927,7 +1927,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Decoratieve kunst",
-                        "fr": "Arts d\u00e9coratives",
+                        "fr": "Arts d\u00e9coratifs",
                         "de": "Angewandte Kunst",
                         "en": "Decorative arts"
                     },
@@ -1979,7 +1979,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Grafiek",
-                        "fr": "Art grafique",
+                        "fr": "Arts graphiques",
                         "de": "Grafik",
                         "en": "Graphics"
                     },
@@ -1992,7 +1992,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -2096,7 +2096,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Folk en wereldmuziek",
-                        "fr": "Musique folklorique et mondiale",
+                        "fr": "Musique folklorique et du monde",
                         "de": "Folk und World",
                         "en": "Folk and world music"
                     },
@@ -2174,7 +2174,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Bal en racketsport",
-                        "fr": "Sports au ballons et raquettes",
+                        "fr": "Sports de ballon ou de raquette",
                         "de": "Ball und Schl\u00e4ger",
                         "en": "Ball and racket sports"
                     },
@@ -2200,7 +2200,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Lucht en motorsport",
-                        "fr": "Sports aero et moteurs",
+                        "fr": "Sports a\u00e9ro et moteur",
                         "de": "Luft-und Motorsport",
                         "en": "Air and motorsports"
                     },
@@ -2330,7 +2330,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -2369,7 +2369,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Zingeving, filosofie en religie",
-                        "fr": "Sense de la vie, philosophie et religion",
+                        "fr": "Sens de la vie, philosophie et religion",
                         "de": "Philosophie und Religion",
                         "en": "Philosophy and religion"
                     },
@@ -2397,7 +2397,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Kamp of vakantie",
-                "fr": "Camp de vacance",
+                "fr": "Camp ou s\u00e9jour de vacances",
                 "de": "Camp oder Urlaub",
                 "en": "Camping"
             },
@@ -2555,7 +2555,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Party of fuif",
-                "fr": "Soir\u00e9e",
+                "fr": "Soir\u00e9e ou f\u00eate",
                 "de": "Ausgehen",
                 "en": "Party or nightlife"
             },
@@ -2568,7 +2568,7 @@
             "domain": "eventtype",
             "name": {
                 "nl": "Eet- of drankfestijn",
-                "fr": "Festin de nourriture ou de boisson",
+                "fr": "Festin gastronomique ou bar festif",
                 "de": "Essen oder Trinken Fest",
                 "en": "Food or beverage feast"
             },
@@ -2633,7 +2633,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Bal en racketsport",
-                        "fr": "Sports au ballons et raquettes",
+                        "fr": "Sports de ballon ou de raquette",
                         "de": "Ball und Schl\u00e4ger",
                         "en": "Ball and racket sports"
                     },
@@ -2659,7 +2659,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Lucht en motorsport",
-                        "fr": "Sports aero et moteurs",
+                        "fr": "Sports a\u00e9ro et moteur",
                         "de": "Luft-und Motorsport",
                         "en": "Air and motorsports"
                     },
@@ -2791,7 +2791,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Grafiek",
-                "fr": "Art grafique",
+                "fr": "Arts graphiques",
                 "de": "Grafik",
                 "en": "Graphics"
             },
@@ -2804,7 +2804,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Installatiekunst",
-                "fr": "Art d'installation",
+                "fr": "Installation",
                 "de": "Installation Art",
                 "en": "Installation art"
             },
@@ -2830,7 +2830,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Decoratieve kunst",
-                "fr": "Arts d\u00e9coratives",
+                "fr": "Arts d\u00e9coratifs",
                 "de": "Angewandte Kunst",
                 "en": "Decorative arts"
             },
@@ -2882,7 +2882,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Volksdans en werelddans",
-                "fr": "Danse folklorique et mondiale",
+                "fr": "Danse folklorique et du monde",
                 "de": "Folk-und World Dance",
                 "en": "Folk dance"
             },
@@ -2895,7 +2895,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Stijl en salondansen",
-                "fr": "Danse de salon et styl\u00e9e",
+                "fr": "Danse de soci\u00e9t\u00e9",
                 "de": "Stil-und Gesellschaftstanz",
                 "en": "Ballroom dancing"
             },
@@ -2973,7 +2973,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Griezelfilm of horror",
-                "fr": "Films d'\u00e9pouvantes ou orreurs",
+                "fr": "Films d'horreur",
                 "de": "Horror",
                 "en": "Horror"
             },
@@ -3116,7 +3116,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Literatuur",
-                "fr": "Lit\u00e9rature",
+                "fr": "Litt\u00e9rature",
                 "de": "Literatur",
                 "en": "Literature"
             },
@@ -3259,7 +3259,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Folk en wereldmuziek",
-                "fr": "Musique folklorique et mondiale",
+                "fr": "Musique folklorique et du monde",
                 "de": "Folk und World",
                 "en": "Folk and world music"
             },
@@ -3376,7 +3376,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Bal en racketsport",
-                "fr": "Sports au ballons et raquettes",
+                "fr": "Sports de ballon ou de raquette",
                 "de": "Ball und Schl\u00e4ger",
                 "en": "Ball and racket sports"
             },
@@ -3441,7 +3441,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Lucht en motorsport",
-                "fr": "Sports aero et moteurs",
+                "fr": "Sports a\u00e9ro et moteur",
                 "de": "Luft-und Motorsport",
                 "en": "Air and motorsports"
             },
@@ -3493,7 +3493,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Humor en comedy",
-                "fr": "L'humour et la com\u00e9die",
+                "fr": "Humour et com\u00e9die",
                 "de": "Humor und comedy",
                 "en": "Humor and comedy"
             },
@@ -3545,7 +3545,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Mime en bewegingstheater",
-                "fr": "Mime et the\u00e9\u00e2tre de mouvements",
+                "fr": "Mime et th\u00e9\u00e2tre de mouvements",
                 "de": "Mime und Bewegungstheater",
                 "en": "Mime "
             },
@@ -3571,7 +3571,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Zingeving, filosofie en religie",
-                "fr": "Sense de la vie, philosophie et religion",
+                "fr": "Sens de la vie, philosophie et religion",
                 "de": "Philosophie und Religion",
                 "en": "Philosophy and religion"
             },
@@ -3662,7 +3662,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Samenleving",
-                "fr": "Vivre en soci\u00e9t\u00e9",
+                "fr": "Vivre-ensemble",
                 "de": "Gesellschaft",
                 "en": "Society"
             },
@@ -4277,7 +4277,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Stijl en salondansen",
-                        "fr": "Danse de salon et styl\u00e9e",
+                        "fr": "Danse de soci\u00e9t\u00e9",
                         "de": "Stil-und Gesellschaftstanz",
                         "en": "Ballroom dancing"
                     },
@@ -4290,7 +4290,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Volksdans en werelddans",
-                        "fr": "Danse folklorique et mondiale",
+                        "fr": "Danse folklorique et du monde",
                         "de": "Folk-und World Dance",
                         "en": "Folk dance"
                     },
@@ -4355,7 +4355,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Decoratieve kunst",
-                        "fr": "Arts d\u00e9coratives",
+                        "fr": "Arts d\u00e9coratifs",
                         "de": "Angewandte Kunst",
                         "en": "Decorative arts"
                     },
@@ -4407,7 +4407,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Grafiek",
-                        "fr": "Art grafique",
+                        "fr": "Arts graphiques",
                         "de": "Grafik",
                         "en": "Graphics"
                     },
@@ -4420,7 +4420,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Literatuur",
-                        "fr": "Lit\u00e9rature",
+                        "fr": "Litt\u00e9rature",
                         "de": "Literatur",
                         "en": "Literature"
                     },
@@ -4524,7 +4524,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Folk en wereldmuziek",
-                        "fr": "Musique folklorique et mondiale",
+                        "fr": "Musique folklorique et du monde",
                         "de": "Folk und World",
                         "en": "Folk and world music"
                     },
@@ -4602,7 +4602,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Bal en racketsport",
-                        "fr": "Sports au ballons et raquettes",
+                        "fr": "Sports de ballon ou de raquette",
                         "de": "Ball und Schl\u00e4ger",
                         "en": "Ball and racket sports"
                     },
@@ -4628,7 +4628,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Lucht en motorsport",
-                        "fr": "Sports aero et moteurs",
+                        "fr": "Sports a\u00e9ro et moteur",
                         "de": "Luft-und Motorsport",
                         "en": "Air and motorsports"
                     },
@@ -4758,7 +4758,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Samenleving",
-                        "fr": "Vivre en soci\u00e9t\u00e9",
+                        "fr": "Vivre-ensemble",
                         "de": "Gesellschaft",
                         "en": "Society"
                     },
@@ -4797,7 +4797,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Zingeving, filosofie en religie",
-                        "fr": "Sense de la vie, philosophie et religion",
+                        "fr": "Sens de la vie, philosophie et religion",
                         "de": "Philosophie und Religion",
                         "en": "Philosophy and religion"
                     },
