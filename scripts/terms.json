@@ -492,7 +492,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Griezelfilm of horror",
-                        "fr": "Films d'horreur",
+                        "fr": "Films d'horreur ou d'\u00e9pouvante",
                         "de": "Horror",
                         "en": "Horror"
                     },
@@ -531,7 +531,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Kortfilm",
-                        "fr": "Court m\u00e9trage",
+                        "fr": "Court-m\u00e9trage",
                         "de": "Kurzfilm",
                         "en": "Short film"
                     },
@@ -544,7 +544,7 @@
                     "domain": "theme",
                     "name": {
                         "nl": "Science fiction",
-                        "fr": "Science fiction",
+                        "fr": "Science-fiction",
                         "de": "Science-Fiction",
                         "en": "Science fiction"
                     },
@@ -2973,7 +2973,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Griezelfilm of horror",
-                "fr": "Films d'horreur",
+                "fr": "Films d'horreur ou d'\u00e9pouvante",
                 "de": "Horror",
                 "en": "Horror"
             },
@@ -3012,7 +3012,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Kortfilm",
-                "fr": "Court m\u00e9trage",
+                "fr": "Court-m\u00e9trage",
                 "de": "Kurzfilm",
                 "en": "Short film"
             },
@@ -3051,7 +3051,7 @@
             "domain": "theme",
             "name": {
                 "nl": "Science fiction",
-                "fr": "Science fiction",
+                "fr": "Science-fiction",
                 "de": "Science-Fiction",
                 "en": "Science fiction"
             },
