@@ -823,7 +823,7 @@
                         "nl": "Mime en bewegingstheater",
                         "fr": "Mime et th\u00e9\u00e2tre de mouvements",
                         "de": "Mime und Bewegungstheater",
-                        "en": "Mime "
+                        "en": "Mime"
                     },
                     "scope": [
                         "events"
@@ -1047,7 +1047,7 @@
                     "name": {
                         "nl": "Landbouw en platteland",
                         "fr": "Agriculture et campagne",
-                        "de": "Landwirtschaft ",
+                        "de": "Landwirtschaft",
                         "en": "Agriculture"
                     },
                     "scope": [
@@ -1205,7 +1205,7 @@
                     "name": {
                         "nl": "Landbouw en platteland",
                         "fr": "Agriculture et campagne",
-                        "de": "Landwirtschaft ",
+                        "de": "Landwirtschaft",
                         "en": "Agriculture"
                     },
                     "scope": [
@@ -1731,7 +1731,7 @@
                     "name": {
                         "nl": "Landbouw en platteland",
                         "fr": "Agriculture et campagne",
-                        "de": "Landwirtschaft ",
+                        "de": "Landwirtschaft",
                         "en": "Agriculture"
                     },
                     "scope": [
@@ -3104,7 +3104,7 @@
             "name": {
                 "nl": "Landbouw en platteland",
                 "fr": "Agriculture et campagne",
-                "de": "Landwirtschaft ",
+                "de": "Landwirtschaft",
                 "en": "Agriculture"
             },
             "scope": [
@@ -3547,7 +3547,7 @@
                 "nl": "Mime en bewegingstheater",
                 "fr": "Mime et th\u00e9\u00e2tre de mouvements",
                 "de": "Mime und Bewegungstheater",
-                "en": "Mime "
+                "en": "Mime"
             },
             "scope": [
                 "events"
